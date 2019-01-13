@@ -33,45 +33,122 @@ permalink: '/:year/:month/:day/:title'
 ## How do I get my Free Blog
 
 There are a couple of options for getting your own hosted blog site up and running.
-- WordPress.org Free plan
-- GitHub Pages
+
+- [WordPress.com][WordPressPlansLink] Free plan
+- [GitHub Pages][GitHubPAgesLink]
 
 If you are still not sure why you should start blogging see my [5 reasons post][5ReasonsPost].
 
+Wait! Is this going to be all technical?
+
+Yes this will get technical and if this is not comfortable for you then I would recommend going with the WordPress.com free site.
+
+You can always move from the WordPress site to the GitHub Page blog as I did.
+
+Before you ultimately decide, let me ask you a couple of questions.
+
+Are you working as a developer or aspire to become one?
+
+Or are you working in any technical computer job or even with a technical team?
+
+If yes then I highly recommend the GitHub Pages option as it will expose you to some tools and process you should start to get familiar with.
+
+In this post I will cover how to start a blog for free using GitHub Pages. Before I jump into that I will provide you with some basic information on the WordPress option I mentioned.
+
 ## WordPress
 
-To be clear there are two distinct WordPress sites, [WordPress.com][WordPressCOMLink] and [WordPress.org][WorkPressOrgLink] site. The latter is home of the open source software and would require you to find a place to host the site like [GoDaddy.com][GoDaddyLink]
+To be clear there are two distinct WordPress sites, [WordPress.com][WordPressCOMLink] and [WordPress.org][WordPressOrgLink] site. The latter is home of the open source software and would require you to find a place to host the site like [GoDaddy.com][GoDaddyLink]
 
 On the [WordPress.com][WordPressCOMLink] you may create a free blog that you can later upgrade to paid versions with more functionality. This is where I originally started.
 
-This has a little more complexity to setup but may be worth the time.
-
 If you want to learn more about the differences between the WordPress sites [here][WordPressComparisonLink] is a good article.
+
+So if you don't want to deal with anything more technical than absolutely necessary than this will work just fine.
 
 ## GitHub Pages
 
-**MORE TO COME HERE**
+[GitHub Pages][GitHubPAgesLink] are a free hosting service that is provided by [GitHub][GitHubLink] for Git repositories hosted on their site.
 
-Tell me about these GitHub Pages
+This has a little more complexity to setup and will be worth the time.
 
-What is GitHub
+Great, but what is GitHub, and what is a Git repository?
+
+These are great questions! Lets go over some basics.
+
+If you already are familiar with these then [jump](#create-github-account) to were all the action starts!
+
+## What is Git
+
+So lets start with Git, which is a tool to version control files. These can be any type of files. The great thing about this tool is the ability to work in a distributed fashion. What this means is that you can work on your project and keep track of all changes on your own computer and synch them back to a remote location, like the GitHub website.
+
+When you work with your files you keep them in a repository for safe keeping.
+
+There is a lot you can dive into with Git and you only need the basics to use GitHub Pages. If you want to learn more check our Git and version control check out this [site][GitTrainingLink].
+
+## What is GitHub
+
+GitHub is a company that provides services for managing Git repositories. The features that you will need are all free.
+
+You can read this older [article][GitHubMakeMoneyLink] on how they make their money and are able to offer these free services.
+
+Many IT Professionals and Open Source Projects use GitHub free repositories to share their work.
+
+## Tell me about these GitHub Pages
+
+[GitHub Pages][WhatIsGitHubPages] is a website hosting service that you can use for an individual, organization, or project where the content is maintained in a public Git repository on the GitHub site.
+
+The only limitation is that the site is a static site which means there will be no code running on the web server. The only code that can work is what the web browser would be able to run.
+
+Great so what type of code can it work with? Wait do I have to know how to write code too??
+
+Ah don't worry you will not have to learn how to code to get your site up and running. You can copy what I have or another theme and just update some settings like your name and start blogging!
+
+## Let's do this
+
+Great you have made it this far and decided to go with the GitHub pages!
+
+Here is what we will cover to get your blog up and running.
+
+- Create a GitHub Account
+- Setup the GitHub repository
+- Verify the Blog is up and running
+- Update Blog settings
 
 ### Create GitHub account
 
-### Create a custom domain
+Show steps in a slider https://github.com/jekylltools/jekyll-ideal-image-slider
 
-### Custom Domain Setup
+### Setup the GitHub repository
 
-### DNS Provider Setup
+### Verify the Blog is up and running
 
-### GitHub Setup
+### Update Blog settings
 
-### Verify Empty Blog
+- Name and Website in Policy Page
+- Favorite icon
+- About Page
+- First Post
+- Main config file _config.yml
+  - Title
+  - Name
+  - Repository
+  - URL
+  - Production URL
+  - GitHub Username
 
 ## Parting Thoughts - Blog Away
 
+
 [5ReasonsPost]: {% post_url 2019-01-07-5-reasons-to-start-blogging %}  "5 Reasons you should Blog!"
-[WorkPressOrgLink]: https://wordpress.org "WordPress.org site"
+[GitHubLink]: https://Github.com "GitHub site"
+[GitHubPAgesLink]: https://pages.Github.com "GitHub Pages site"
+[WhatIsGitHubPages]: https://help.github.com/articles/what-is-github-pages/ "What is GitHub Pages?"
+[GitTrainingLink]: https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control "Git Training"
+[101Start]: #Create-GitHub-account "Create GitHub account internal link"
+[101NoDomainStart]: #GitHub-Setup "GitHub Setup internal link"
+[GitHubMakeMoneyLink]: https://www.cnbc.com/2017/10/11/github-has-a-110-million-run-rate-from-business-products.html "How Does GitHub make money?"
+[WordPressOrgLink]: https://wordpress.org "WordPress.org site"
+[WordPressPlansLink]: https://wordpress.com/pricing/ "WordPress.com plans and pricing link"
 [GitHubPageDependencies]: https://pages.github.com/versions/ "GitHub Page Dependencies"
 [RubyWinInstaller]: https://rubyinstaller.org/downloads "Ruby Windows Installer"
 [Jekyll374Dependencies]: https://rubygems.org/gems/jekyll/versions/3.7.4 "Jekyll 3.7.4 Dependencies"
