@@ -194,9 +194,9 @@ At the top of the file are some configuration settings that are referred to as f
 
 In addition, update the date in the file name to reflect the date you are starting your blog. You can change this when you are in edit mode.
 
-Be sure to commit any changes!
+{% include important.html content="Be sure to commit any changes!" %}
 
-Since we have updated the dates you need to create a new image folder for the new blog date. If you decided to keep the dates then you are all set.
+Since you have updated the dates you need to create a new image folder for the new blog date. If you decided to keep the dates then you are all set.
 
 What I do is create a folder for each post and use a date format to name them, like YYYYMMDD. The simplest way to create a new folder for the images is to navigate over to the /assets/images. Then click the Create new file button. This will let you put the file name and optionally create new folders.
 
