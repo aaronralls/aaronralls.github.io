@@ -48,7 +48,7 @@
   images:
     - src: /assets/images/20190110/VerifyBlog.PNG
       alt: Step 1.) Go to the repository code page.
-    - src: /assets/images/20190110/UpdateConfig5.PNG
+    - src: /assets/images/20190110/VerifyBlog5.PNG
       alt: Step 2.) Scroll down to find the _config.ym file and click the file name.
     - src: /assets/images/20190110/UpdateConfig2.PNG
       alt: Step 3.) Select the pencil button to edit the file.
