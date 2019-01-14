@@ -16,7 +16,7 @@
     - src: /assets/images/20190110/GitHubAccountCreation6Cropped.png
       alt: Step 6.) If you have an issues be sure to verify your GitHub account in your email.
   settings:
-    height: "'auto'"
+    height: 400
     effect: "'fade'"
   
 - selector: sliderForkGitHubBlogRepo
@@ -39,7 +39,7 @@
     - src: /assets/images/20190110/ForkBlog7.PNG
       alt: Step 7.) Change the repository name to yourusername.github.io and click the Rename button.
   settings:
-    height: "'auto'"
+    height: 400
     effect: "'fade'"
 
 - selector: sliderUpdateConfigGitHubBlog
@@ -59,7 +59,7 @@
     - src: /assets/images/20190110/UpdateConfig4.PNG
       alt: Step 6.) Click the green Commit changes button to save the updates.
   settings:
-    height: "'auto'"
+    height: 400
     effect: "'fade'"
 
 - selector: sliderVerifyGitHubBlog
@@ -75,5 +75,5 @@
     - src: /assets/images/20190110/VerifyBlog10.PNG
       alt: Step 4.) Very your site loads and that the changes you made to the _config.yml are correct.
   settings:
-    height: "'auto'"
+    height: 400
     effect: "'fade'"

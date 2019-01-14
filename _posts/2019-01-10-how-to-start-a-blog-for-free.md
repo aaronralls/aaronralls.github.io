@@ -135,10 +135,6 @@ For simplicity we will make these changes from the GitHub web page vs a code edi
 
 I will cover how you can work with your blog on your local computer in another post.
 
-- Name and Website in Policy Page
-- Favorite icon
-- About Page
-- First Post
 - Main config file _config.yml
   - Title
   - Name
@@ -155,6 +151,33 @@ I will cover how you can work with your blog on your local computer in another p
 Now that we have copied the repository lets make sure it works from the get go.
 
 {% include slider.html selector="sliderVerifyGitHubBlog" %}
+
+### Update About Page
+
+Now that you have verified your blog is running and has the basic configurations set you need to update the about page content.
+
+You can find the content in the root directory of the repository in the about.md file.
+
+Edit this in the same way you did the _config.yml file.
+
+All you need for now is a paragraph about yourself and what you will be blogging about. If you aren't sure look at [mine][aaronAboutPage].
+
+If you have not worked with markdown before [here][KramdownRef] is a good source or go to my blog repository and look at some of my [posts][exampleMarkdown].
+
+The sample about page includes a default image file called me.jpg. This file can be found under /assets/images/about in your blog repository.
+
+The fastest way to update this is to delete the file and upload your own with the same name.
+
+You can delete any file by clicking on the file in the repository. Then there will be a trashcan button you can use to delete the file.
+After you click the trashcan scroll down and click the green commit button.
+
+![Delete File][DeleteFileButton]
+
+To upload a new image use the upload files button.
+
+![Upload Files Button][uploadFilesButton]
+
+### Update First Post
 
 ## Parting Thoughts - Blog Away
 
@@ -187,3 +210,8 @@ Stay tuned for up coming posts on how you can add a custom domain name and guide
 [WordPressCOMLink]: https://wordpress.com/ "WordPress main site"
 [WordPressComparisonLink]:https://www.wpbeginner.com/beginners-guide/why-is-wordpress-free-what-are-the-costs-what-is-the-catch/ "WordPress.org vs. WordPress.com"
 [BlogRepository]: https://github.com/aaronralls/Blog "Blog Repository"
+[aaronAboutPage]: https://arkeytek.com/about/ "Aaron Ralls Arkeytek about page example"
+[exampleMarkdown]: https://github.com/aaronralls/aaronralls.github.io/tree/master/_posts "Example markdown in my posts"
+
+[DeleteFileButton]: /assets/images/20190110/UpdateConfig2.PNG "Delete File Button"
+[uploadFilesButton]: /assets/images/20190110/uploadFilesButton.PNG "Upload Files Button"
