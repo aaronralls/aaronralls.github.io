@@ -24,19 +24,20 @@
   captions: true
   images:
     - src: /assets/images/20190110/ForkBlog.PNG
-      alt: Step 1.) Create username for a GitHub account.
+      alt: Step 1.) Go to aaronralls/Blog on GitHub.
+      href: https://github.com/aaronralls/Blog
     - src: /assets/images/20190110/ForkBlog2.PNG
-      alt: Step 2.) Proove you are a person signing up for an account.
+      alt: Step 2.) Click the Fork button on the top right of the page.
     - src: /assets/images/20190110/ForkBlog3.PNG
-      alt: Step 3.) Select the Free plan.
+      alt: Step 3.) Wait for the process to complete.
     - src: /assets/images/20190110/ForkBlog4.PNG
-      alt: Step 4.) Select your interests.
+      alt: Step 4.) The repo will now be under your account name.
     - src: /assets/images/20190110/ForkBlog5.PNG
-      alt: Step 5.) You are now ready to create a new repository.
+      alt: Step 5.) Click the Settings tab.
     - src: /assets/images/20190110/ForkBlog6.PNG
-      alt: Step 6.) If you have an issue be sure to verify your GitHub account in your email.
+      alt: Step 6.) Wait for the settings to load.
     - src: /assets/images/20190110/ForkBlog7.PNG
-      alt: Step 7.) If you have an issue be sure to verify your GitHub account in your email.
+      alt: Step 7.) Change the repository name to yourusername.github.io and click the Rename button.
   settings:
     height: "'auto'"
     effect: "'fade'"
