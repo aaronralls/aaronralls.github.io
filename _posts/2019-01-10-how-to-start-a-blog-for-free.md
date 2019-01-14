@@ -179,6 +179,15 @@ To upload a new image use the upload files button.
 
 ### Update First Post
 
+The last thing you need to do is update what you would like to tell the world in your fist post.
+
+This can be short and sweet.
+
+If you are stuck check out these two articles!
+
+- [What to include in your first post][firstPostGuide]
+- [Ideas for first post][firstPostIdeas]
+
 ## Parting Thoughts - Blog Away
 
 Great now you have a cool and free blog!
@@ -212,6 +221,8 @@ Stay tuned for up coming posts on how you can add a custom domain name and guide
 [BlogRepository]: https://github.com/aaronralls/Blog "Blog Repository"
 [aaronAboutPage]: https://arkeytek.com/about/ "Aaron Ralls Arkeytek about page example"
 [exampleMarkdown]: https://github.com/aaronralls/aaronralls.github.io/tree/master/_posts "Example markdown in my posts"
+[firstPostGuide]: https://www.shoutmeloud.com/write-first-blog-post.html "First Post Guide"
+[firstPostIdeas]: http://iwannabeablogger.com/first-blog-post/ "Ideas for first Post"
 
 [DeleteFileButton]: /assets/images/20190110/UpdateConfig2.PNG "Delete File Button"
 [uploadFilesButton]: /assets/images/20190110/uploadFilesButton.PNG "Upload Files Button"
