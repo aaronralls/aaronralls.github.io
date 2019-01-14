@@ -4,17 +4,87 @@
   captions: true
   images:
     - src: /assets/images/20190110/GitHubAccountCreationCropped.png
-      alt: Create username for a GitHub account.
+      alt: Step 1.) Create username for a GitHub account.
     - src: /assets/images/20190110/GitHubAccountCreation2Cropped.png
-      alt: Proove you are a person signing up for an account.
+      alt: Step 2.) Proove you are a person signing up for an account.
     - src: /assets/images/20190110/GitHubAccountCreation3Cropped.png
-      alt: Select the Free plan.
+      alt: Step 3.) Select the Free plan.
     - src: /assets/images/20190110/GitHubAccountCreation4Cropped.png
-      alt: Select your interests.
+      alt: Step 4.) Select your interests.
     - src: /assets/images/20190110/GitHubAccountCreation5Cropped.png
-      alt: You are now ready to create a new repository.
+      alt: Step 5.) You are now ready to create a new repository.
     - src: /assets/images/20190110/GitHubAccountCreation6Cropped.png
-      alt: If you have an issue be sure to verify your GitHub account in your email.
+      alt: Step 6.) If you have an issues be sure to verify your GitHub account in your email.
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+  
+- selector: sliderForkGitHubBlogRepo
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/images/20190110/ForkBlog.png
+      alt: Step 1.) Create username for a GitHub account.
+    - src: /assets/images/20190110/ForkBlog2.png
+      alt: Step 2.) Proove you are a person signing up for an account.
+    - src: /assets/images/20190110/ForkBlog3.png
+      alt: Step 3.) Select the Free plan.
+    - src: /assets/images/20190110/ForkBlog4.png
+      alt: Step 4.) Select your interests.
+    - src: /assets/images/20190110/ForkBlog5.png
+      alt: Step 5.) You are now ready to create a new repository.
+    - src: /assets/images/20190110/ForkBlog6.png
+      alt: Step 6.) If you have an issue be sure to verify your GitHub account in your email.
+    - src: /assets/images/20190110/ForkBlog7.png
+      alt: Step 7.) If you have an issue be sure to verify your GitHub account in your email.
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: sliderUpdateConfigGitHubBlog
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/images/20190110/UpdateConfig.png
+      alt: Step 1.) Create username for a GitHub account.
+    - src: /assets/images/20190110/UpdateConfig2.png
+      alt: Step 2.) Proove you are a person signing up for an account.
+    - src: /assets/images/20190110/UpdateConfig3a.png
+      alt: Step 3.) Select the Free plan.
+    - src: /assets/images/20190110/UpdateConfig3b.png
+      alt: Step 4.) Select your interests.
+    - src: /assets/images/20190110/UpdateConfig4.png
+      alt: Step 5.) You are now ready to create a new repository.
+    - src: /assets/images/20190110/UpdateConfig5.png
+      alt: Step 6.) If you have an issue be sure to verify your GitHub account in your email.
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
+
+- selector: sliderVerifyGitHubBlog
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/images/20190110/VerifyBlog.png
+      alt: Step 1.) Create username for a GitHub account.
+    - src: /assets/images/20190110/VerifyBlog2.png
+      alt: Step 2.) Proove you are a person signing up for an account.
+    - src: /assets/images/20190110/VerifyBlog3.png
+      alt: Step 3.) Select the Free plan.
+    - src: /assets/images/20190110/VerifyBlog4.png
+      alt: Step 4.) Select your interests.
+    - src: /assets/images/20190110/VerifyBlog5.png
+      alt: Step 5.) You are now ready to create a new repository.
+    - src: /assets/images/20190110/VerifyBlog6.png
+      alt: Step 6.) If you have an issue be sure to verify your GitHub account in your email.
+    - src: /assets/images/20190110/VerifyBlog7.png
+      alt: Step 7.) Create username for a GitHub account.
+    - src: /assets/images/20190110/VerifyBlog8.png
+      alt: Step 8.) Proove you are a person signing up for an account.
+    - src: /assets/images/20190110/VerifyBlog9.png
+      alt: Step 9.) Select the Free plan.
+    - src: /assets/images/20190110/VerifyBlog10.png
+      alt: Step 10.) Select your interests.
   settings:
     height: "'auto'"
     effect: "'fade'"

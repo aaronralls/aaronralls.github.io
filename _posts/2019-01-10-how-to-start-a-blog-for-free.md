@@ -19,6 +19,9 @@ tags:
 - Blog
 image_sliders:
   - sliderCreateGitHubAccount
+  - sliderVerifyGitHubBlog
+  - sliderUpdateConfigGitHubBlog
+  - sliderForkGitHubBlogRepo
 excerpt: |-
   Start a free blog to share your experiences with the world.
 
@@ -122,9 +125,7 @@ In this step you will copy a repository with the blog site code. This will allow
 
 To get a working copy we are going to fork a repository I created that has the [blog][BlogRepository] code ready to go.
 
-### Verify the Blog is up and running
-
-Now that we have copied the repository lets make sure it works from the get go.
+{% include slider.html selector="sliderForkGitHubBlogRepo" %}
 
 ### Update Blog settings
 
@@ -145,6 +146,15 @@ I will cover how you can work with your blog on your local computer in another p
   - URL
   - Production URL
   - GitHub Username
+  - Default Author name
+
+{% include slider.html selector="sliderUpdateConfigGitHubBlog" %}
+
+### Verify the Blog is up and running
+
+Now that we have copied the repository lets make sure it works from the get go.
+
+{% include slider.html selector="sliderVerifyGitHubBlog" %}
 
 ## Parting Thoughts - Blog Away
 
@@ -152,7 +162,7 @@ Great now you have a cool and free blog!
 
 Your next step is to plan your next blog post. Set a deadline and time to work on it!
 
-Stay tuned for the next step on how you can add a custom domain name.
+Stay tuned for up coming posts on how you can add a custom domain name and guidelines for each post.
 
 [5ReasonsPost]: {% post_url 2019-01-07-5-reasons-to-start-blogging %}  "5 Reasons you should Blog!"
 [GitHubLink]: https://Github.com "GitHub site"
