@@ -123,6 +123,8 @@ In this step you will copy a repository with the blog site code. This will allow
 
 ### Verify the Blog is up and running
 
+Now that we have copied the repository lets make sure it works from the get go.
+
 ### Update Blog settings
 
 These are the things you will need to change to complete the minimal setup.
