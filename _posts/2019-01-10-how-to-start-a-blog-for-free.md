@@ -17,12 +17,8 @@ categories:
 tags:
 - GitHub
 - Blog
-author:
-  #login: aaronralls74
-  #email: arkeytekllc@gmail.com
-  #display_name: aaronralls74
-  #first_name: ''
-  #last_name: ''
+image_sliders:
+  - sliderCreateGitHubAccount
 excerpt: |-
   Start a free blog to share your experiences with the world.
 
@@ -116,13 +112,20 @@ Here is what we will cover to get your blog up and running.
 
 ### Create GitHub account
 
-Show steps in a slider https://github.com/jekylltools/jekyll-ideal-image-slider
+Follow the steps in the images below to create your GitHub account.
+
+{% include slider.html selector="sliderCreateGitHubAccount" %}
 
 ### Setup the GitHub repository
+
+In this step you will copy a repository with the blog site code. This will allow you to change the settings and start your blog quickly.
+
 
 ### Verify the Blog is up and running
 
 ### Update Blog settings
+
+These are the things you will need to change to complete the minimal setup.
 
 - Name and Website in Policy Page
 - Favorite icon

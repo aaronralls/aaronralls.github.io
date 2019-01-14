@@ -1,0 +1,20 @@
+# example slider
+- selector: sliderCreateGitHubAccount
+  bullets: true
+  captions: true
+  images:
+    - src: /assets/images/20190110/GitHubAccountCreationCropped.png
+      alt: Create username for a GitHub account.
+    - src: /assets/images/20190110/GitHubAccountCreation2Cropped.png
+      alt: Proove you are a person signing up for an account.
+    - src: /assets/images/20190110/GitHubAccountCreation3Cropped.png
+      alt: Select the Free plan.
+    - src: /assets/images/20190110/GitHubAccountCreation4Cropped.png
+      alt: Select your interests.
+    - src: /assets/images/20190110/GitHubAccountCreation5Cropped.png
+      alt: You are now ready to create a new repository.
+    - src: /assets/images/20190110/GitHubAccountCreation6Cropped.png
+      alt: If you have an issue be sure to verify your GitHub account in your email.
+  settings:
+    height: "'auto'"
+    effect: "'fade'"
