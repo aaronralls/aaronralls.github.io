@@ -120,6 +120,7 @@ Follow the steps in the images below to create your GitHub account.
 
 In this step you will copy a repository with the blog site code. This will allow you to change the settings and start your blog quickly.
 
+To get a working copy we are going to fork a repository I created that has the [blog][BlogRepository] code ready to go.
 
 ### Verify the Blog is up and running
 
@@ -128,6 +129,10 @@ Now that we have copied the repository lets make sure it works from the get go.
 ### Update Blog settings
 
 These are the things you will need to change to complete the minimal setup.
+
+For simplicity we will make these changes from the GitHub web page vs a code editor.
+
+I will cover how you can work with your blog on your local computer in another post.
 
 - Name and Website in Policy Page
 - Favorite icon
@@ -143,6 +148,11 @@ These are the things you will need to change to complete the minimal setup.
 
 ## Parting Thoughts - Blog Away
 
+Great now you have a cool and free blog!
+
+Your next step is to plan your next blog post. Set a deadline and time to work on it!
+
+Stay tuned for the next step on how you can add a custom domain name.
 
 [5ReasonsPost]: {% post_url 2019-01-07-5-reasons-to-start-blogging %}  "5 Reasons you should Blog!"
 [GitHubLink]: https://Github.com "GitHub site"
@@ -166,3 +176,4 @@ These are the things you will need to change to complete the minimal setup.
 [GoDaddyLink]: https://www.godaddy.com/hosting/wordpress-hosting "GoDaddy WordPress Hosting"
 [WordPressCOMLink]: https://wordpress.com/ "WordPress main site"
 [WordPressComparisonLink]:https://www.wpbeginner.com/beginners-guide/why-is-wordpress-free-what-are-the-costs-what-is-the-catch/ "WordPress.org vs. WordPress.com"
+[BlogRepository]: https://github.com/aaronralls/Blog "Blog Repository"
