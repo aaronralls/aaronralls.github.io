@@ -23,19 +23,19 @@
   bullets: true
   captions: true
   images:
-    - src: /assets/images/20190110/ForkBlog.png
+    - src: /assets/images/20190110/ForkBlog.PNG
       alt: Step 1.) Create username for a GitHub account.
-    - src: /assets/images/20190110/ForkBlog2.png
+    - src: /assets/images/20190110/ForkBlog2.PNG
       alt: Step 2.) Proove you are a person signing up for an account.
-    - src: /assets/images/20190110/ForkBlog3.png
+    - src: /assets/images/20190110/ForkBlog3.PNG
       alt: Step 3.) Select the Free plan.
-    - src: /assets/images/20190110/ForkBlog4.png
+    - src: /assets/images/20190110/ForkBlog4.PNG
       alt: Step 4.) Select your interests.
-    - src: /assets/images/20190110/ForkBlog5.png
+    - src: /assets/images/20190110/ForkBlog5.PNG
       alt: Step 5.) You are now ready to create a new repository.
-    - src: /assets/images/20190110/ForkBlog6.png
+    - src: /assets/images/20190110/ForkBlog6.PNG
       alt: Step 6.) If you have an issue be sure to verify your GitHub account in your email.
-    - src: /assets/images/20190110/ForkBlog7.png
+    - src: /assets/images/20190110/ForkBlog7.PNG
       alt: Step 7.) If you have an issue be sure to verify your GitHub account in your email.
   settings:
     height: "'auto'"
@@ -45,17 +45,17 @@
   bullets: true
   captions: true
   images:
-    - src: /assets/images/20190110/UpdateConfig.png
+    - src: /assets/images/20190110/UpdateConfig.PNG
       alt: Step 1.) Create username for a GitHub account.
-    - src: /assets/images/20190110/UpdateConfig2.png
+    - src: /assets/images/20190110/UpdateConfig2.PNG
       alt: Step 2.) Proove you are a person signing up for an account.
-    - src: /assets/images/20190110/UpdateConfig3a.png
+    - src: /assets/images/20190110/UpdateConfig3a.PNG
       alt: Step 3.) Select the Free plan.
-    - src: /assets/images/20190110/UpdateConfig3b.png
+    - src: /assets/images/20190110/UpdateConfig3b.PNG
       alt: Step 4.) Select your interests.
-    - src: /assets/images/20190110/UpdateConfig4.png
+    - src: /assets/images/20190110/UpdateConfig4.PNG
       alt: Step 5.) You are now ready to create a new repository.
-    - src: /assets/images/20190110/UpdateConfig5.png
+    - src: /assets/images/20190110/UpdateConfig5.PNG
       alt: Step 6.) If you have an issue be sure to verify your GitHub account in your email.
   settings:
     height: "'auto'"
@@ -65,25 +65,25 @@
   bullets: true
   captions: true
   images:
-    - src: /assets/images/20190110/VerifyBlog.png
+    - src: /assets/images/20190110/VerifyBlog.PNG
       alt: Step 1.) Create username for a GitHub account.
-    - src: /assets/images/20190110/VerifyBlog2.png
+    - src: /assets/images/20190110/VerifyBlog2.PNG
       alt: Step 2.) Proove you are a person signing up for an account.
-    - src: /assets/images/20190110/VerifyBlog3.png
+    - src: /assets/images/20190110/VerifyBlog3.PNG
       alt: Step 3.) Select the Free plan.
-    - src: /assets/images/20190110/VerifyBlog4.png
+    - src: /assets/images/20190110/VerifyBlog4.PNG
       alt: Step 4.) Select your interests.
-    - src: /assets/images/20190110/VerifyBlog5.png
+    - src: /assets/images/20190110/VerifyBlog5.PNG
       alt: Step 5.) You are now ready to create a new repository.
-    - src: /assets/images/20190110/VerifyBlog6.png
+    - src: /assets/images/20190110/VerifyBlog6.PNG
       alt: Step 6.) If you have an issue be sure to verify your GitHub account in your email.
-    - src: /assets/images/20190110/VerifyBlog7.png
+    - src: /assets/images/20190110/VerifyBlog7.PNG
       alt: Step 7.) Create username for a GitHub account.
-    - src: /assets/images/20190110/VerifyBlog8.png
+    - src: /assets/images/20190110/VerifyBlog8.PNG
       alt: Step 8.) Proove you are a person signing up for an account.
-    - src: /assets/images/20190110/VerifyBlog9.png
+    - src: /assets/images/20190110/VerifyBlog9.PNG
       alt: Step 9.) Select the Free plan.
-    - src: /assets/images/20190110/VerifyBlog10.png
+    - src: /assets/images/20190110/VerifyBlog10.PNG
       alt: Step 10.) Select your interests.
   settings:
     height: "'auto'"
