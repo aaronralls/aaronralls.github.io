@@ -79,7 +79,7 @@ So lets start with Git, which is a tool to version control files. These can be a
 
 When you work with your files you keep them in a repository for safe keeping.
 
-There is a lot you can dive into with Git and you only need the basics to use GitHub Pages. If you want to learn more check our Git and version control check out this [site][GitTrainingLink].
+There is a lot you can dive into with Git and you only need the basics to use GitHub Pages. If you want to learn more check out Git and version control check out this [site][GitTrainingLink].
 
 ## What is GitHub
 
