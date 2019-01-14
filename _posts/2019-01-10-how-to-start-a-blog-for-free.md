@@ -188,6 +188,42 @@ If you are stuck check out these two articles!
 - [What to include in your first post][firstPostGuide]
 - [Ideas for first post][firstPostIdeas]
 
+The file you will want to edit is /_posts/2019-01-13-first-blog-post.md.
+
+At the top of the file are some configuration settings that are referred to as front matter. You will want to update the dates.
+
+In addition, update the date in the file name to reflect the date you are starting your blog. You can change this when you are in edit mode.
+
+Be sure to commit any changes!
+
+Since we have updated the dates you need to create a new image folder for the new blog date. If you decided to keep the dates then you are all set.
+
+What I do is create a folder for each post and use a date format to name them, like YYYYMMDD. The simplest way to create a new folder for the images is to navigate over to the /assets/images. Then click the Create new file button. This will let you put the file name and optionally create new folders.
+
+Type in the date and a /.
+
+![New Folder Step 1][NewFolderStep1]
+
+Then you will have to create a file. You can name it anything you like.
+
+![New Folder Step 2][NewFolderStep2]
+
+I used test.txt.
+
+![New Folder Step 3][NewFolderStep3]
+
+Now that you have a new folder you can upload the images.
+
+I always have at least three images:
+
+- My Header
+- Image for FaceBook links
+- Image for Twitter links
+
+![Default Post Images][DefaultPostImages]
+
+{% include important.html content="If you do not upload these image files be sure to comment out the front matter variables in the post markdown file." %}
+
 ## Parting Thoughts - Blog Away
 
 Great now you have a cool and free blog!
@@ -226,3 +262,7 @@ Stay tuned for up coming posts on how you can add a custom domain name and guide
 
 [DeleteFileButton]: /assets/images/20190110/UpdateConfig2.PNG "Delete File Button"
 [uploadFilesButton]: /assets/images/20190110/uploadFilesButton.PNG "Upload Files Button"
+[NewFolderStep1]: /assets/images/20190110/CreateFolder.PNG "Create Folder Step 1."
+[NewFolderStep2]: /assets/images/20190110/CreateFolder2.PNG "Create Folder Step 2."
+[NewFolderStep3]: /assets/images/20190110/CreateFolder3.PNG "Create Folder Step 3."
+[DefaultPostImages]: /assets/images/20190110/DefaultPostImages.PNG "Default Post Images"
