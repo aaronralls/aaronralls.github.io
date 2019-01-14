@@ -152,7 +152,7 @@ We may use third-party Service Providers to monitor and analyze the use of our S
 
 - *Google Analytics*
         Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualize and personalize the ads of its own advertising network.
-        You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.                For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: <a href="https://policies.google.com/privacy?hl=en">https://policies.google.com/privacy?hl=en</a>
+        You can opt-out of having made your activity on the Service available to Google Analytics by installing the Google Analytics opt-out browser add-on. The add-on prevents the Google Analytics JavaScript (ga.js, analytics.js, and dc.js) from sharing information with Google Analytics about visits activity.                For more information on the privacy practices of Google, please visit the Google Privacy & Terms web page: [https://policies.google.com/privacy?hl=en][GooglePrivacyPolicy]
 
 ### Advertising
 
@@ -160,7 +160,7 @@ We may use third-party Service Providers to show advertisements to you to help s
 
 - *Google AdSense & DoubleClick Cookie*
         Google, as a third party vendor, uses cookies to serve ads on our Service. Google's use of the DoubleClick cookie enables it and its partners to serve ads to our users based on their visit to our Service or other websites on the Internet.
-        You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: <a href="http://www.google.com/ads/preferences/">http://www.google.com/ads/preferences/</a>
+        You may opt out of the use of the DoubleClick Cookie for interest-based advertising by visiting the Google Ads Settings web page: [http://www.google.com/ads/preferences/][GoogleAddPref]
 
 ## Links to Other Sites
 
@@ -183,3 +183,6 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 If you have any questions about this Privacy Policy, please contact us:
 
 - By email: {{ site.name }} at {{ site.email }}
+
+[GooglePrivacyPolicy]: https://policies.google.com/privacy?hl=en "Google policies"
+[GoogleAddPref]: http://www.google.com/ads/preferences/ "Google add preferences"
