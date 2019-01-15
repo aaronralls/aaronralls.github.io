@@ -42,7 +42,7 @@ Here is what we will cover to get your blog up and running.
 
 ### Update Blog settings
 
-## Parting Thoughts - Blog Away
+## Parting Thoughts - Commit to Content
 
 
 [5ReasonsPost]: {% post_url 2019-01-07-5-reasons-to-start-blogging %}  "5 Reasons you should Blog!"

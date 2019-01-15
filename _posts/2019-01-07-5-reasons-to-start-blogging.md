@@ -46,9 +46,9 @@ Here are the 5 main reasons I started to blog:
 
 Maybe you're like me and hated writing in school and thought it was a waste of time.
 
-Early in my time in college I ruled out being a lawyer because I hated to write term papers. I made it my mission to get through college without ever writing one.
+Early in my time in college, I ruled out being a lawyer because I hated to write term papers. I made it my mission to get through college without ever writing one.
 
-I managed to find ever professor and class that didn't require term papers and even opted for a fundamentals of acting class over a speech class where several term papers where required.
+I managed to find ever professor and class that didn't require term papers and even opted for the fundamentals of acting class over a speech class where several term papers where required.
 
 This determination and resourcefulness helped me get through my immediate goals and allowed me to complete my Computer Information Systems (CIS) degree in three years.
 
@@ -76,7 +76,7 @@ In addition, this very act of teaching others is a required skill for more advan
 
 ### Be an advocate for others
 
-Writing will provide and opportunity for you to help others.
+Writing will provide an opportunity for you to help others.
 
 This could be a local charity or helping kids learn to code and providing a voice for them.
 
