@@ -40,7 +40,7 @@ If you are still not sure why you should start blogging see my [5 reasons post][
 
 Wait! Is this going to be all technical?
 
-Yes this will get technical and if this is not comfortable for you then I would recommend going with the WordPress.com free site.
+Yes, this will get technical and if this is not comfortable for you then I would recommend going with the WordPress.com free site.
 
 You can always move from the WordPress site to the GitHub Page blog as I did.
 
@@ -52,7 +52,7 @@ Or are you working in any technical computer job or even with a technical team?
 
 If yes then I highly recommend the GitHub Pages option as it will expose you to some tools and process you should start to get familiar with.
 
-In this post I will cover how to start a blog for free using GitHub Pages. Before I jump into that I will provide you with some basic information on the WordPress option I mentioned.
+In this post, I will cover how to start a blog for free using GitHub Pages. Before I jump into that I will provide you with some basic information on the WordPress option I mentioned.
 
 ## WordPress
 
@@ -62,23 +62,23 @@ On the [WordPress.com][WordPressCOMLink] you may create a free blog that you can
 
 If you want to learn more about the differences between the WordPress sites [here][WordPressComparisonLink] is a good article.
 
-So if you don't want to deal with anything more technical than absolutely necessary than this will work just fine.
+So if you don't want to deal with anything more technical than absolutely necessary then this will work just fine.
 
 ## GitHub Pages
 
 [GitHub Pages][GitHubPAgesLink] are a free hosting service that is provided by [GitHub][GitHubLink] for Git repositories hosted on their site.
 
-This has a little more complexity to setup and will be worth the time.
+This has a little more complexity to set up and will be worth the time.
 
 Great, but what is GitHub, and what is a Git repository?
 
-These are great questions! Lets go over some basics.
+These are great questions! Let's go over some basics.
 
-If you already are familiar with these then [jump](#create-github-account) to were all the action starts!
+If you already are familiar with these then [jump](#create-github-account) to where all the action starts!
 
 ## What is Git
 
-So lets start with Git, which is a tool to version control files. These can be any type of files. The great thing about this tool is the ability to work in a distributed fashion. What this means is that you can work on your project and keep track of all changes on your own computer and synch them back to a remote location, like the GitHub website.
+So let's start with Git, which is a tool to version control files. These can be any type of files. The great thing about this tool is the ability to work in a distributed fashion. What this means is that you can work on your project and keep track of all changes on your own computer and synch them back to a remote location, like the GitHub website.
 
 When you work with your files you keep them in a repository for safe keeping.
 
@@ -100,7 +100,7 @@ The only limitation is that the site is a static site which means there will be 
 
 Great so what type of code can it work with? Wait do I have to know how to write code too??
 
-Ah don't worry you will not have to learn how to code to get your site up and running. You can copy what I have or another theme and just update some settings like your name and start blogging!
+Ah, don't worry you will not have to learn how to code to get your site up and running. You can copy what I have or another theme and just update some settings like your name and start blogging!
 
 ## Let's do this
 
@@ -113,7 +113,7 @@ Here is what we will cover to get your blog up and running.
 - Verify the Blog is up and running
 - Update Blog settings
 
-### Create GitHub account
+### Create a GitHub account
 
 Follow the steps in the images below to create your GitHub account.
 
@@ -121,7 +121,7 @@ Follow the steps in the images below to create your GitHub account.
 
 ### Setup the GitHub repository
 
-In this step you will copy a repository with the blog site code. This will allow you to change the settings and start your blog quickly.
+In this step, you will copy a repository with the blog site code. This will allow you to change the settings and start your blog quickly.
 
 To get a working copy we are going to fork a repository I created that has the [blog][BlogRepository] code ready to go.
 
@@ -131,7 +131,7 @@ To get a working copy we are going to fork a repository I created that has the [
 
 These are the things you will need to change to complete the minimal setup.
 
-For simplicity we will make these changes from the GitHub web page vs a code editor.
+For simplicity, we will make these changes from the GitHub web page vs a code editor.
 
 I will cover how you can work with your blog on your local computer in another post.
 
@@ -148,13 +148,13 @@ I will cover how you can work with your blog on your local computer in another p
 
 ### Verify the Blog is up and running
 
-Now that we have copied the repository lets make sure it works from the get go.
+Now that we have copied the repository lets make sure it works from the get-go.
 
 {% include slider.html selector="sliderVerifyGitHubBlog" %}
 
 ### Update About Page
 
-Now that you have verified your blog is running and has the basic configurations set you need to update the about page content.
+Now that you have verified your blog is running using the basic configurations you need to update the about page content.
 
 You can find the content in the root directory of the repository in the about.md file.
 
@@ -173,20 +173,20 @@ After you click the trashcan scroll down and click the green commit button.
 
 ![Delete File][DeleteFileButton]
 
-To upload a new image use the upload files button.
+To upload a new image, use the upload files button.
 
 ![Upload Files Button][uploadFilesButton]
 
 ### Update First Post
 
-The last thing you need to do is update what you would like to tell the world in your fist post.
+The last thing you need to do is update what you would like to tell the world in your first post.
 
 This can be short and sweet.
 
 If you are stuck check out these two articles!
 
 - [What to include in your first post][firstPostGuide]
-- [Ideas for first post][firstPostIdeas]
+- [Ideas for the first post][firstPostIdeas]
 
 The file you will want to edit is /_posts/2019-01-13-first-blog-post.md.
 
@@ -230,7 +230,7 @@ Great now you have a cool and free blog!
 
 Your next step is to plan your next blog post. Set a deadline and time to work on it!
 
-Stay tuned for up coming posts on how you can add a custom domain name and guidelines for each post.
+Stay tuned for upcoming posts on how you can add a custom domain name and guidelines for each post.
 
 [5ReasonsPost]: {% post_url 2019-01-07-5-reasons-to-start-blogging %}  "5 Reasons you should Blog!"
 [GitHubLink]: https://Github.com "GitHub site"
