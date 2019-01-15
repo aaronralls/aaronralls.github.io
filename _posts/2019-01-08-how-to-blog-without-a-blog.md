@@ -40,19 +40,19 @@ Those can be scary! I know many people that are technical that do not want to sp
 
 Maybe you don't want to spend the money right now and want to just get started.
 
-Well I can help show you a couple of great places to start.
+Well, I can help show you a couple of great places to start.
 
 ### Medium
 
-[Medium][MediumLink] is a great place to start writing blog post without having to manage a blog site or pay. They have all kinds of content and are not limited to tech or developer blog posts.
+[Medium][MediumLink] is a great place to start writing blog posts without having to manage a blog site or pay. They have all kinds of content and are not limited to tech or developer blog posts.
 
-Medium is even great if you already have a blog site since you can cross post your content and reach more people without hurting the SEO on your main site.
+Medium is even great if you already have a blog site since you can cross-post your content and reach more people without hurting the SEO on your main site.
 
 ### LinkedIn
 
 If you don't have a [LinkedIn][LinkedInLink] account, stop now and create one! This is especially true if you are in a technical profession.
 
-On the LinkedIn platform you can write articles. These will automatically be shared with some of your connections or people that follow you.
+On the LinkedIn platform, you can write articles. These will automatically be shared with some of your connections or people that follow you.
 
 You can reach more people by sharing the article on LinkedIn with routine status updates.
 
@@ -66,7 +66,7 @@ If you are not aware, Markdown is a text-based writing tool that allows you to f
 
 ## Parting Thoughts - Just Write
 
-In the end there is no wrong choice, other than not starting. So get out there and just write!
+In the end, there is no wrong choice, other than not starting. So get out there and just write!
 
 [WordPressCOMLink]: https://wordpress.com/ "WordPress main site"
 [FreeBlog]: {% post_url 2019-01-10-how-to-start-a-blog-for-free %} "Free Blog"
