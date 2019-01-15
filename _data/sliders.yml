@@ -6,7 +6,7 @@
     - src: /assets/images/20190110/GitHubAccountCreationCropped.png
       alt: Step 1.) Create username for a GitHub account.
     - src: /assets/images/20190110/GitHubAccountCreation2Cropped.png
-      alt: Step 2.) Proove you are a person signing up for an account.
+      alt: Step 2.) Prove you are a person signing up for an account.
     - src: /assets/images/20190110/GitHubAccountCreation3Cropped.png
       alt: Step 3.) Select the Free plan.
     - src: /assets/images/20190110/GitHubAccountCreation4Cropped.png
@@ -14,7 +14,7 @@
     - src: /assets/images/20190110/GitHubAccountCreation5Cropped.png
       alt: Step 5.) You are now ready to create a new repository.
     - src: /assets/images/20190110/GitHubAccountCreation6Cropped.png
-      alt: Step 6.) If you have an issues be sure to verify your GitHub account in your email.
+      alt: Step 6.) If you have any issues be sure to verify your GitHub account in your email.
   settings:
     height: 400
     effect: "'fade'"
@@ -53,7 +53,7 @@
     - src: /assets/images/20190110/UpdateConfig2.PNG
       alt: Step 3.) Select the pencil button to edit the file.
     - src: /assets/images/20190110/UpdateConfig3.PNG
-      alt: Step 4.) Update the following values, name, email, repository, url, prod_url, github_username.
+      alt: Step 4.) Update the following values, name, email, repository, URL, prod_url, github_username.
     - src: /assets/images/20190110/UpdateConfig3a.PNG
       alt: Step 5.) Scroll down and update the author value.
     - src: /assets/images/20190110/UpdateConfig4.PNG
@@ -71,7 +71,7 @@
     - src: /assets/images/20190110/VerifyBlog3.PNG
       alt: Step 2.) Scroll down to the GitHub Pages section. You may see the site is ready to be published message. This means it's building.
     - src: /assets/images/20190110/VerifyBlog9.PNG
-      alt: Step 3.) When sucessfully build you will see a message that your site is published. Click the link to your blog.
+      alt: Step 3.) When successfully build you will see a message that your site is published. Click the link to your blog.
     - src: /assets/images/20190110/VerifyBlog10.PNG
       alt: Step 4.) Very your site loads and that the changes you made to the _config.yml are correct.
   settings:
