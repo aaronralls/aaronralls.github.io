@@ -31,7 +31,7 @@ You decided to go with the [GitHub pages][GitHubPagesLink] for your blog and now
 
 You can't wait to share it with your friends and followers on Twitter, LinkedIn, Medium, and Facebook.
 
-Then it hits you, the current domain name you have is underwhelming. In the [previous post][HowToStartBlogForFree] we set up the site with the default repository name.
+Then it hits you, the current domain name you have is underwhelming. In the [previous post][HowToStartBlogForFree], we set up the site with the default repository name.
 
 {% include note.html content="The default domain name will be <b><i>GitHubUserName</i>.github.io</b>." %}
 
@@ -39,7 +39,7 @@ You think to yourself I'm a professional I don't want to share it like that!
 
 So you run out and get your super awesome domain name from [GoDaddy][GoDaddyLink] for .99¢ and are stumped as to how you get it working with your new blog.
 
-Well you have come to the right spot, because I will walk you through the steps to add your custom domain to your GitHub Pages Blog site.
+You have come to the right spot because I will walk you through the steps to add your custom domain to your GitHub Pages Blog site.
 
 ## Let's do this
 
