@@ -230,8 +230,9 @@ Great now you have a cool and free blog!
 
 Your next step is to plan your next blog post. Set a deadline and time to work on it!
 
-Stay tuned for upcoming posts on how you can add a custom domain name and guidelines for each post.
+Stay tuned for upcoming posts on how you can add a [custom domain][HowToAddCustomDomain] name and guidelines for each post.
 
+[HowToAddCustomDomain]: {% post_url 2019-01-13-how-to-add-custom-domain-github-pages-blog %}  "how to add custom domain github pages blog"
 [5ReasonsPost]: {% post_url 2019-01-07-5-reasons-to-start-blogging %}  "5 Reasons you should Blog!"
 [GitHubLink]: https://Github.com "GitHub site"
 [GitHubPAgesLink]: https://pages.Github.com "GitHub Pages site"
