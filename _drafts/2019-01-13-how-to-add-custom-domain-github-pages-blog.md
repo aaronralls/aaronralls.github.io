@@ -26,7 +26,7 @@ permalink: '/:year/:month/:day/:title'
 
 ## How to add Custom Domain to GitHub Pages Blog
 
-Great you have made it this far and decided to go with the GitHub pages!
+You decided to go with the GitHub pages for your blog and now you want to 
 
 ## Let's do this
 
