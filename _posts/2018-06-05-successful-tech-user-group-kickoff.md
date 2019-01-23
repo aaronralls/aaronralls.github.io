@@ -2,7 +2,9 @@
 layout: post
 redirect_from: 
     - /2018/06/05/successful-tech-user-group-kickoff/
+    - /2018/06/05/successful-tech-user-group-kickoff
 title: Successful Tech User Group Kickoff
+slug: successful-tech-user-group-kickoff
 summary: "The Fort Smith Users group is off an running."
 excerpt:  The Fort Smith Tech User Group is now active!
 image: /assets/images/20180605/header.jpg
@@ -30,14 +32,15 @@ author:
   #display_name: aaronralls74
   #first_name: ''
   #last_name: ''
-permalink: '/:year/:month/:day/:title'
+permalink: '/developer-career/:slug'
 ---
-<h2>Fort Smith Tech User Group</h2>
+# Fort Smith Tech User Group
+
 <p>The Fort Smith Tech User Group is now active!</p>
 <p>In this post, I wanted to share the vision of the group and recap our first meeting.</p>
 <p>First, I wanted to thank some people that helped get this User Group going.</p>
 <p>Abby Sims from the<a href="http://lrdnug.org"> Little Rock .Net Users Group</a> and Sean Sparkman from the <a href="https://www.meetup.com/DFW-Mobile-NET/">Dallas/Fort Worth </a>Mobile .Net Users Group. These two shared with me their unique insights into running their respective groups.</p>
-<p><a href="https://www.facebook.com/randy.friend">Randy Friend</a> from the previous Fort Smith .Net Users Group who answered numerous questions about what worked and did not work with the previous group that stopped meeting.</p>
+<p>Randy Friend from the previous Fort Smith .Net Users Group who answered numerous questions about what worked and did not work with the previous group that stopped meeting.</p>
 <p>This month we have to thank the <a href="http://hamptoninn3.hilton.com/en/hotels/arkansas/hampton-inn-fort-smith-FSMARHX/event/index.html">Hampton Inn</a> on Rogers ave in Fort Smith for providing the meeting space. If you need to host an event or are looking for a place to stay look no further! Speak with Amanda Webb to help you arrange an event.</p>
 <p>Jordan Lerch, a local freelance filmographer, took photos of the event to help with social media promotions. Be sure to check out his <a href="https://www.youtube.com/channel/UCqZk8mU_rkLQaS1r2_gvk7w">YouTube</a> and <a href="https://www.facebook.com/JLFilmography/">Facebook</a> pages if you are looking to hire someone to promote your business he can help with promotional or music videos, interviews, or any sort of informative and creative content.</p>
 <p><a href="http://fstech.org"><img class="wp-image-833 size-large" src="{{ site.baseurl }}/assets/images/20180605/FSTech-user-group-kick-off-1024x575.jpg" alt="Fort Smith Tech User Group Kickoff meeting" width="780" /></a>

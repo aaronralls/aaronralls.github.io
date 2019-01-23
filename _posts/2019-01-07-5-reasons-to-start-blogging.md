@@ -1,6 +1,9 @@
 ---
 layout: post
+redirect_from:
+   - /2019/01/10/5-reasons-to-start-blogging/
 title: 5 Reasons to start blogging
+slug: 5-reasons-to-start-blogging
 summary: "Reasons you should start blogging"
 image: /assets/images/20190107/header.jpg
 twitter_image: /assets/images/20190107/twitter-image.jpg
@@ -27,10 +30,10 @@ excerpt: |-
   5 Reasons to start blogging today.
 
   You can do this for free thanks to GitHub!
-permalink: '/:year/:month/:day/:title'
+permalink: '/blogging/:slug'
 ---
 
-## Why Blog
+# Why Blog
 
 You are pondering about starting a blog and not sure if you should. 
 
@@ -42,7 +45,7 @@ Here are the 5 main reasons I started to blog:
 - [Be an advocate for others](#be-an-advocate-for-others)
 - [Keep a living resume](#keep-a-living-resume)
 
-### Practice Writing
+## Practice Writing
 
 Maybe you're like me and hated writing in school and thought it was a waste of time.
 
@@ -58,7 +61,7 @@ I'm still not great.
 
 Don't be like me and start writing sooner and a blog is an easy way!
 
-### Get out of your comfort zone
+## Get out of your comfort zone
 
 Even if you are technical, managing a blog site can be a challenging experience.
 
@@ -68,19 +71,19 @@ So maybe you are good on the technical front and need to push yourself to share 
 
 You will find there are many people that will be willing to help you overcome any obstacles.
 
-### Share what you learn
+## Share what you learn
 
 You would be surprised by how many people will enjoy what you have learned. Taking the time to share what you have learned is rewarding.
 
 In addition, this very act of teaching others is a required skill for more advanced positions and it will create opportunities for you.
 
-### Be an advocate for others
+## Be an advocate for others
 
 Writing will provide an opportunity for you to help others.
 
 This could be a local charity or helping kids learn to code and providing a voice for them.
 
-### Keep a living resume
+## Keep a living resume
 
 Keeping your resume up to date is no fun! Your blog posts can be part of your overall resume for others to learn more about you.
 
@@ -88,7 +91,7 @@ It will not be an exact replacement. It could help be the deciding factor for yo
 
 You could even have a page on your blog that is your resume that would be easy for others to see and for you to maintain.
 
-### Parting Thoughts - Keep it Simple
+## Parting Thoughts - Keep it Simple
 
 Regardless of what you do, keep it simple!
 

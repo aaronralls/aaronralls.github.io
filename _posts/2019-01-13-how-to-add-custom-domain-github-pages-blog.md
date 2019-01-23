@@ -1,6 +1,9 @@
 ---
 layout: post
+redirect_from:
+   - /2019/01/13/how-to-add-custom-domain-github-pages-blog/
 title: How to add Custom Domain to GitHub Pages Blog
+slug: how-to-add-custom-domain
 summary: "How to add Custom Domain to GitHub Pages Blog"
 image: /assets/images/20190113/header.jpg
 twitter_image: /assets/images/20190113/twitter-image.jpg
@@ -22,10 +25,10 @@ image_sliders:
 excerpt: |-
   We will add a custom domain to your GitHub Pages blog.
 
-permalink: '/:year/:month/:day/:title'
+permalink: '/github-pages/:slug'
 ---
 
-## How to add Custom Domain to GitHub Pages Blog
+# How to add Custom Domain to GitHub Pages Blog
 
 You decided to go with the [GitHub pages][GitHubPagesLink] for your blog and now you want to start writing your first post about some cool new technology you just learned about.
 

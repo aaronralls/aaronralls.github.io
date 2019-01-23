@@ -56,7 +56,7 @@ defaults:
       share: true
       read_time: true
       related: true
-      permalink: '/:year/:month/:day/:title'
+      permalink: '/:title'
   - scope:
       path: ""
       type: "authors"

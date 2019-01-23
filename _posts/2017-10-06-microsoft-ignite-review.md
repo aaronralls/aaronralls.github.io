@@ -1,8 +1,10 @@
 ---
 layout: post
 redirect_from:
-   - /2017/10/06/microsoft-ignite-review/
+  - /2017/10/06/microsoft-ignite-review/
+  - /2017/10/06/microsoft-ignite-review
 title: "Microsoft Ignite and why you need to go: From Ignite to Burn"
+slug: microsoft-ignite-2017-review
 summary: "My Microsoft Ignite 2017 Review"
 excerpt: Wow, Microsoft Ignite is a something every IT person should attend! There were sessions on about every Microsoft product and an equal abundance of caffeine. 
 image: /assets/images/20171006/header.jpg
@@ -29,7 +31,7 @@ author:
   #display_name: aaronralls74
   #first_name: ''
   #last_name: ''
-permalink: '/:year/:month/:day/:title'
+permalink: '/developer-career/:slug'
 ---
 # What a fun week it was at Microsoft Ignite!
 
@@ -61,4 +63,4 @@ permalink: '/:year/:month/:day/:title'
 <h2>Learn about AI and AR</h2>
 <p>In the Microsoft Ignite keynote address, Microsoft CEO Satya Nadella made it clear that the future will be in artificial intelligence (AI) and Microsoft will be making a big push to embrace and evolve their applications to incorporate it. With regards to augmented reality (AR), there was a demonstration on how Ford uses <a href="https://developer.microsoft.com/en-us/windows/mixed-reality/mixed_reality" target="_blank" rel="noopener">Mixed Reality</a> (MR) to move through the early design process using the HoloLens platform. Beyond the keynote, I attended some sessions as I mentioned earlier. I have some plans on how I will incorporate AI and bots to streamline our team's tasks. So stay tuned for more information as this unfolds!</p>
 <p>&nbsp;</p>
-<p>If you would like to learn more about Microsoft Ignite or anything I covered please send me an email. Be sure to check out the <a href="https://myignite.microsoft.com/videos?ocid=ignite_on-demand_all_social_tw_msig_n_livestream_text_9335&amp;s=%257B%2522name%2522%253A%2522Relevance%2522%252C%2522type%2522%253A0%257D#ignite-html-anchor" target="_blank" rel="noopener">Sessions</a> and <a href="https://myignite.microsoft.com/sessions?f=%255B%257B%2522name%2522%253A%2522Hands-on%2520Lab%2522%252C%2522facetName%2522%253A%2522sessionType%2522%257D%255D" target="_blank" rel="noopener">Labs</a> (To start a Lab click the title then the blue link "Launch Lab" under the title on the labs' main page.) from the conference.</p>
+<p>If you would like to learn more about Microsoft Ignite or anything I covered please send me an email. Be sure to check out the <a href="https://myignite.microsoft.com/videos" target="_blank" rel="noopener">Sessions</a> and <a href="https://myignite.microsoft.com/sessions" target="_blank" rel="noopener">Labs</a> (To start a Lab click the title then the blue link "Launch Lab" under the title on the labs' main page.) from the conference.</p>

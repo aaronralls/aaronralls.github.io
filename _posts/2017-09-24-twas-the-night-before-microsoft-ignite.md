@@ -1,9 +1,11 @@
 ---
 layout: post
 redirect_from:
-   - /2017/09/25/twas-the-night-before-microsoft-ignite/
+  - /2017/09/25/twas-the-night-before-microsoft-ignite/
+  - /2017/09/25/twas-the-night-before-microsoft-ignite
 title: Twas the night before Microsoft Ignite
-date: 2017-09-24 22:34:24.000000000 -05:00
+slug: night-before-microsoft-ignite-2017
+date: 2017-09-24 12:34:24.000000000 -05:00
 image: /assets/images/20170924/header.jpg
 twitter_image: /assets/images/20170924/twitter-image.jpg
 facebook_link_image: /assets/images/20170924/facebook-link-image.jpg
@@ -52,11 +54,13 @@ excerpt: |-
   3.) Work on my MCSD certification
   4.) Learn about AI and AR
   5.) Network with new people
-permalink: '/:year/:month/:day/:title'
+permalink: '/developer-career/:slug'
 ---
 
-<h1>Microsoft Ignite 2017</h1>
-<p>As I sit in my hotel room in Orlando, FL revising my <a href="https://www.microsoft.com/en-us/ignite/default.aspx" rel="noopener">Microsoft Ignite</a> conference schedule for the week, I realized I needed to set some goals for the week. I have been busing adding meetings to my calendar and reminders on my smartphone for offsite events, networking opportunities and critical sessions I do not want to miss. All the while I have not taken the time to step back and think about what my goals for the week should be. To be honest I have thought about them but have not put aside the time to write them down and narrow them down to the top five things I want to achieve this week.</p>
+# Microsoft Ignite 2017
+
+As I sit in my hotel room in Orlando, FL revising my <a href="https://www.microsoft.com/en-us/ignite/default.aspx" rel="noopener">Microsoft Ignite</a> conference schedule for the week, I realized I needed to set some goals for the week. I have been busing adding meetings to my calendar and reminders on my smartphone for offsite events, networking opportunities and critical sessions I do not want to miss. All the while I have not taken the time to step back and think about what my goals for the week should be. To be honest I have thought about them but have not put aside the time to write them down and narrow them down to the top five things I want to achieve this week.
+
 <p>After some time revising and hashing my thoughts out here are my five goals for the Microsoft Ignite conference.</p>
 <ol>
 <li>Identify one work problem to solve</li>

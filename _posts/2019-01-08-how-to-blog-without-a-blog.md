@@ -1,5 +1,8 @@
 ---
 layout: post
+redirect_from:
+   - /2019/01/08/how-to-blog-without-a-blog/
+slug: how-to-blog-without-a-blog
 title: How to Blog without a Blog
 summary: "Learn how you can become a blogger without a blog"
 image: /assets/images/20190108/header.png
@@ -27,10 +30,10 @@ excerpt: |-
   How to Blog without a Blog
 
   You don't want to manage a blog site so what do you do?
-permalink: '/:year/:month/:day/:title'
+permalink: '/blogging/:slug'
 ---
 
-## Where Can I Blog without a Blog
+# Where Can I Blog without a Blog
 
 Great you have decided to start blogging!
 
@@ -42,13 +45,13 @@ Maybe you don't want to spend the money right now and want to just get started.
 
 Well, I can help show you a couple of great places to start.
 
-### Medium
+## Medium
 
 [Medium][MediumLink] is a great place to start writing blog posts without having to manage a blog site or pay. They have all kinds of content and are not limited to tech or developer blog posts.
 
 Medium is even great if you already have a blog site since you can cross-post your content and reach more people without hurting the SEO on your main site.
 
-### LinkedIn
+## LinkedIn
 
 If you don't have a [LinkedIn][LinkedInLink] account, stop now and create one! This is especially true if you are in a technical profession.
 
@@ -58,7 +61,7 @@ You can reach more people by sharing the article on LinkedIn with routine status
 
 To make the most of the platform be sure to enable your visibility is set to public for Posts & Activities.
 
-### Dev.to
+## Dev.to
 
 The developer only version of [Medium][MediumLink] is [Dev.to][DevTOLink]. The site is geared to developer type topics and the interface to write posts provides a little more flexibility than Medium and [LinkedIn][LinkedInLink] since you write everything in [Markdown][MarkdownLink].
 

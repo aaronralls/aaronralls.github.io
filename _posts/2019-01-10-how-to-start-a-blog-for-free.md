@@ -1,6 +1,9 @@
 ---
 layout: post
+redirect_from:
+   - /2019/01/10/how-to-start-a-blog-for-free/
 title: How to start a blog for free
+slug: how-to-start-a-blog-for-free
 summary: "Learn how you can get a hosted blog for free"
 image: /assets/images/20190110/header.jpg
 twitter_image: /assets/images/20190110/twitter-image.jpg
@@ -26,10 +29,10 @@ excerpt: |-
   Start a free blog to share your experiences with the world.
 
   You can do this for free thanks to GitHub!
-permalink: '/:year/:month/:day/:title'
+permalink: '/blogging/:title'
 ---
 
-## How do I get my Free Blog
+# How do I get my Free Blog
 
 There are a couple of options for getting your own hosted blog site up and running.
 
@@ -242,8 +245,8 @@ Stay tuned for upcoming posts on how you can add a [custom domain][HowToAddCusto
 [101NoDomainStart]: #GitHub-Setup "GitHub Setup internal link"
 [GitHubMakeMoneyLink]: https://www.cnbc.com/2017/10/11/github-has-a-110-million-run-rate-from-business-products.html "How Does GitHub make money?"
 [WordPressOrgLink]: https://wordpress.org "WordPress.org site"
-[WordPressPlansLink]: https://wordpress.com/pricing/ "WordPress.com plans and pricing link"
-[GitHubPageDependencies]: https://pages.github.com/versions/ "GitHub Page Dependencies"
+[WordPressPlansLink]: https://wordpress.com/pricing "WordPress.com plans and pricing link"
+[GitHubPageDependencies]: https://pages.github.com/versions "GitHub Page Dependencies"
 [RubyWinInstaller]: https://rubyinstaller.org/downloads "Ruby Windows Installer"
 [Jekyll374Dependencies]: https://rubygems.org/gems/jekyll/versions/3.7.4 "Jekyll 3.7.4 Dependencies"
 [GitHubPagesJekyll38Issue]:https://github.com/github/pages-gem/issues/555 "GitHub Pages Jekyll 3.8 Issue"
@@ -253,10 +256,10 @@ Stay tuned for upcoming posts on how you can add a [custom domain][HowToAddCusto
 [KramdownRef]: https://kramdown.gettalong.org/syntax.html "Kramdown Reference"
 [OverrideThemeDefaults]: https://jekyllrb.com/docs/themes/#overriding-theme-defaults "Override Theme Defaults"
 [GoDaddyLink]: https://www.godaddy.com/hosting/wordpress-hosting "GoDaddy WordPress Hosting"
-[WordPressCOMLink]: https://wordpress.com/ "WordPress main site"
+[WordPressCOMLink]: https://wordpress.com "WordPress main site"
 [WordPressComparisonLink]:https://www.wpbeginner.com/beginners-guide/why-is-wordpress-free-what-are-the-costs-what-is-the-catch/ "WordPress.org vs. WordPress.com"
 [BlogRepository]: https://github.com/aaronralls/Blog "Blog Repository"
-[aaronAboutPage]: https://arkeytek.com/about/ "Aaron Ralls Arkeytek about page example"
+[aaronAboutPage]: https://arkeytek.com/about "Aaron Ralls Arkeytek about page example"
 [exampleMarkdown]: https://github.com/aaronralls/aaronralls.github.io/tree/master/_posts "Example markdown in my posts"
 [firstPostGuide]: https://www.shoutmeloud.com/write-first-blog-post.html "First Post Guide"
 [firstPostIdeas]: http://iwannabeablogger.com/first-blog-post/ "Ideas for first Post"

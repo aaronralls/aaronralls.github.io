@@ -2,7 +2,9 @@
 layout: post
 redirect_from: 
     - /2018/02/12/microsoft-azure-training-pluralsight/
+    - /2018/02/12/microsoft-azure-training-pluralsight
 title: How to get free Azure training on Pluralsight
+slug: free-microsoft-training-pluralsight
 summary: "Start learning about Azure with free training fom Pluralsight."
 excerpt: Microsoft and Pluralsight have an agreement that provides free Azure training courses when your accounts are linked.
 image: /assets/images/20180212/header.jpg
@@ -28,9 +30,10 @@ author:
   #display_name: aaronralls74
   #first_name: ''
   #last_name: ''
-permalink: '/:year/:month/:day/:title'
+permalink: '/azure/:slug'
 ---
-<h2>Free Azure Training, YES!!</h2>
+# Free Azure Training, YES!!
+
 <p>Microsoft and Pluralsight have an agreement that provides free Azure training courses when your accounts are linked.</p>
 <p>When you have completed the process you should see the "Azure Subscription" under your account along with several of the Azure courses.</p>
 <p><img class="wp-image-695 size-large" src="{{ site.baseurl }}/assets/images/20180212/Pluralsight-subscription-list-with-free-Azure-training-1024x562.png" alt="Pluralsight subscription list with free Azure training" width="780" height="428" /> <!--Pluralsight subscription list with free Azure training--></p>
@@ -50,7 +53,7 @@ permalink: '/:year/:month/:day/:title'
 <h3>Free Azure Training signup steps</h3>
 <p>Create an <a href="https://azure.microsoft.com/en-us/free/?v=18.03">Azure account.</a></p>
 <p><img class="size-large wp-image-707" src="{{ site.baseurl }}/assets/images/20180212/Microsoft-Azure-account-1024x700.png" alt="Create Azure Account" width="780" height="395" /></p>
-<p>Create a <a href="https://billing.pluralsight.com/individual/checkout/account-details?sku=IND-M-PLUS-FT">Pluralsight account.</a></p>
+<p>Create a trial <a href="https://www.pluralsight.com/pricing">Pluralsight account.</a></p>
 <p><img class="size-large wp-image-705" src="{{ site.baseurl }}/assets/images/20180212/Pluralsight-new-account-1024x519.png" alt="Pluralsight new account" width="780" height="395" /> <!--Pluralsight new account--></p>
 <p>Logout of Pluralsight. (<strong>This is a key step and the only way to link an existing Pluralsight account!</strong>)</p>
 <p>Select one of the courses from the <a href="https://azure.microsoft.com/en-us/training/free-online-courses/">list</a>.</p>
