@@ -73,7 +73,7 @@ This is what I use to help stay on track and work faster.
 
 This is where you start writing and collecting supporting information.
 
-I like to use [Evernote][EvernoteLink] to keep all of my ideas for a post together in one place. When I'm searching for information I can use a Chrome extension, [Evernote Web Clipper][EvernoteWebClipper] or the mobile app for [iOS][EvernoteIOS] to send links, pictures, or text to a notebook in Evernote. They even have mobile app for [Andriod][EvernoteGooglePlay]. I use the [free][EvernotePlans] version of Evernote and have not needed to upgrade to the paid version.
+I like to use [Evernote][EvernoteLink] to keep all of my ideas for a post together in one place. When I'm searching for information I can use a Chrome extension, [Evernote Web Clipper][EvernoteWebClipper] or the mobile app for [iOS][EvernoteIOS] to send links, pictures, or text to a notebook in Evernote. They even have a mobile app for [Andriod][EvernoteGooglePlay]. I use the [free][EvernotePlans] version of Evernote and have not needed to upgrade to the paid version.
 
 An alternative to Evernote is [Google Keep][GoogleKeepLink], which has similar functionality and is free.
 
@@ -88,7 +88,7 @@ Sometimes I create lists of thoughts or ideas that would be subsections of my po
 
 I like doing this now because it allows me to relax my brain as I search for images before jumping into the writing.
 
-Every post should have a header image. Even if you don't show it on you page it will be needed for social media sharing.
+Every post should have a header image. Even if you don't show it on your page it will be needed for social media sharing.
 
 The header image should be something that is related in some way to your content. You may decide to change this or do this after you have flushed out the [title](#Title-and-Main-Heading).
 
@@ -98,7 +98,7 @@ I like to use the [Unsplash][Unsplash] web site  since the images are free and y
 
 Here are some other types of images you should think about using.
 
-- Screen shots for tutorials
+- Screenshots for tutorials
 - Photos from events
 
 {% include note.html content="Save these in an designated directory for the post. This will be useful if you need to create a smaller image or another image with different dimensions." %}
@@ -111,7 +111,7 @@ Start writing down ideas and thoughts. They don't have to be complete sentences 
 
 {% include note.html content="Don't be afraid to separate the ideas you have into more than one post." %}
 
-It's best to set a timer for five minutes and see what you can written. If you are still typing away don't stop, *__KEEP GOING__*!
+It's best to set a timer for five minutes and see what you can write. If you are still typing away don't stop, *__KEEP GOING__*!
 
 "_Let the ideas flow through you_"
 ![Let the ideas flow through you][StarWarsForceImg]
@@ -119,7 +119,7 @@ It's best to set a timer for five minutes and see what you can written. If you a
 You will come back and polish them out on the second pass. For each pass increase the time you spend writing by five minutes.
 I find the time limit helps me when I can't think about what to write. I won't end up staring at the screen for an endless amount of time. Then I can go to the other steps to engage other parts of my brain.
 
-There are times when I start to write the body and I think of related topics that could be an extension of the post. By all means keep a list of those ideas!
+There are times when I start to write the body and I think of related topics that could be an extension of the post. By all means, keep a list of those ideas!
 
 Now that doesn't mean you can't switch it around. I find this works best for me, mainly because I can spend too much time developing the flashy title and have no content. Then I inevitably put off the blog post and never come back to it.
 
@@ -135,13 +135,13 @@ Identify at least two articles that are related to share with your readers. You 
 
 If this is your first post then let your reader know where you plan to go from here.
 
-Sharing your ideas for up coming posts will help you hold yourself accountable.
+Sharing your ideas for upcoming posts will help you hold yourself accountable.
 
 Plus it will help build trust with your readers, so be sure to follow through!
 
 ### Categories and Tags
 
-The objective is to see how the post fits in your site and how many potential key words to see if the topic is too broad.
+The objective is to see how the post fits in your site and how many potential keywords to see if the topic is too broad.
 
 So how are they different?
 
@@ -179,7 +179,7 @@ This step will you create a better Title and Main Heading.
 
 These are similar, yet serve two different purposes.
 
-Title is where I like to identify a problem or pain point. I want to peak the curiosity of person searching Google!
+The Title is where I like to identify a problem or pain point. I want to pique the curiosity of person searching Google!
 
 I want them thinking "I NEED to see read this post!".
 
@@ -206,7 +206,7 @@ Main Heading tips
 - H1 how is this [different][TitleVSH1] than the title?
 - This sets out what the scope of your blog post will be and should meet the users intent. If it doesn't then they will quickly leave your site.
 - 20-70 characters
-- Include a keyword. A key word may be a phrase. A longer phrase would be a "long tail" keyword.
+- Include a keyword. A keyword may be a phrase. A longer phrase would be a "long tail" keyword.
 - Style away, but be consistent and let it enhance the user experience!
 - Used for internal links on your site
 
@@ -221,11 +221,11 @@ I like to do these two key things:
 - Tell the reader why they need to fix the problem you identified in the Title.
 - Explain how I will fix the problem, which should come from the Main Heading.
 
-I want to build trust with the reader by showing them that my Titles and Main Headings are trust worthy.
+I want to build trust with the reader by showing them that my Titles and Main Headings are trustworthy.
 
 This is a good place to put internal links to other blog posts the reader could benefit from.
 
-This could be a post that would be helpful for them to start with before read this post.
+This could be a post that would be helpful for them to start with before reading the post.
 
 Bring the reader in with a story, an analogy, or some candor. Be yourself!
 
@@ -235,7 +235,7 @@ This is used to preview the content in search engine results.
 
 Keep this to 150 characters or less.
 
-Be sure to use the key word!
+Be sure to use the keyword!
 
 In the picture below the area in the red rectangle is the excerpt.
 
@@ -255,14 +255,14 @@ You said Slug, eeeewwww!
 
 The Slug is the end of the URL that will direct users to the post.
 
-You need to include your key words!
+You need to include your keywords!
 
 The URL will be your site name and any categories the slug will be part of.
 
-This is the URL for this post.
+This is the URL for a post.
 *__arkeytek.com/blogging/10-steps-to-create-blog-post/__*
 
-Here is the Slug for this post.
+Here a Slug for the post.
 *__10-steps-to-create-blog-post__*
 
 {% include note.html content="Make the URL less then 50 characters and definitely don't go over 100 characters. Use this [tool][CharCounter] to help you check out the length." %}
@@ -273,7 +273,7 @@ You will need to reduce the size of the images so they take up less space and wi
 
 The website should not use the original images. I find it better to put the optimized images in a separate location.
 
-{% include important.html content="Large files will make the web page slower to load and hurt you search engine rankings." %}
+{% include important.html content="Large files will make the web page slower to load and hurt your search engine rankings." %}
 
 Optimization can be reduced files size, dimensions, or a change in the file type.
 
@@ -304,7 +304,7 @@ Now you can go to your website CMS tool and input all of your work and polish th
 
 If you do not have a site yet check out my post on where you can [blog on other sites][BlogOtherSites] or how you can [start a blog for free][FreeBlog]!
 
-In a future post I will show you how to apply these steps on a post with GitHub Pages.
+In a future post, I will show you how to apply these steps on a post with GitHub Pages.
 
 [HowToStartBlogForFree]: {% post_url 2019-01-10-how-to-start-a-blog-for-free %}  "How to start a blog for free"
 [5ReasonsPost]: {% post_url 2019-01-07-5-reasons-to-start-blogging %}  "5 Reasons you should Blog!"
