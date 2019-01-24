@@ -54,6 +54,9 @@ excerpt: |-
   3.) Work on my MCSD certification
   4.) Learn about AI and AR
   5.) Network with new people
+related_posts:
+- microsoft-ignite-2017-review
+- azure-functions-logic-app-csv-to-json
 permalink: '/developer-career/:slug'
 ---
 

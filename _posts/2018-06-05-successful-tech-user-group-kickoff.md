@@ -32,6 +32,9 @@ author:
   #display_name: aaronralls74
   #first_name: ''
   #last_name: ''
+related_posts:
+- how-to-start-a-blog-for-free
+- 5-reasons-to-start-blogging
 permalink: '/developer-career/:slug'
 ---
 # Fort Smith Tech User Group

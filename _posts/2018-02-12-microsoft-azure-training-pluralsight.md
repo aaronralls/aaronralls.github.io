@@ -30,6 +30,9 @@ author:
   #display_name: aaronralls74
   #first_name: ''
   #last_name: ''
+related_posts:
+- azure-functions-logic-app-csv-to-json
+- 5-reasons-to-start-blogging
 permalink: '/azure/:slug'
 ---
 # Free Azure Training, YES!!

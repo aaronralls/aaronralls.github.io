@@ -29,6 +29,10 @@ excerpt: |-
   Start a free blog to share your experiences with the world.
 
   You can do this for free thanks to GitHub!
+related_posts:
+- 10-steps-to-create-blog-post
+- 5-reasons-to-start-blogging
+- how-to-add-custom-domain
 permalink: '/blogging/:title'
 ---
 

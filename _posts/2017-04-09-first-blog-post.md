@@ -30,6 +30,9 @@ author:
   #last_name: ''
 excerpt: Welcome to AR Key Technologies we look forward to sharing our knowledge with
   Azure, C#, Networking, PC troubleshooting post.
+related_posts:
+- how-to-start-a-blog-for-free
+- 5-reasons-to-start-blogging
 permalink: '/:title'
 ---
 

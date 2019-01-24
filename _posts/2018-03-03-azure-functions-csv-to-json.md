@@ -32,6 +32,9 @@ author:
   #display_name: aaronralls74
   #first_name: ''
   #last_name: ''
+related_posts:
+- free-microsoft-training-pluralsight
+- 5-reasons-to-start-blogging
 permalink: '/azure/:slug'
 ---
 <h1>Azure Functions: CSV to JSON</h1>

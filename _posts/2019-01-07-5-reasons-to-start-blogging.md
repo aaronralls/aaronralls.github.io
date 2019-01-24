@@ -30,6 +30,9 @@ excerpt: |-
   5 Reasons to start blogging today.
 
   You can do this for free thanks to GitHub!
+related_posts:
+- how-to-start-a-blog-for-free
+- 10-steps-to-create-blog-post
 permalink: '/blogging/:slug'
 ---
 

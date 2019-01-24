@@ -31,6 +31,9 @@ author:
   #display_name: aaronralls74
   #first_name: ''
   #last_name: ''
+related_posts:
+- night-before-microsoft-ignite-2017
+- free-microsoft-training-pluralsight
 permalink: '/developer-career/:slug'
 ---
 # What a fun week it was at Microsoft Ignite!

@@ -30,6 +30,9 @@ excerpt: |-
   How to Blog without a Blog
 
   You don't want to manage a blog site so what do you do?
+related_posts:
+- 10-steps-to-create-blog-post
+- 5-reasons-to-start-blogging
 permalink: '/blogging/:slug'
 ---
 

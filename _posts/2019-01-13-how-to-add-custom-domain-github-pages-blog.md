@@ -24,7 +24,9 @@ image_sliders:
   - sliderVerifyGitHubBlog
 excerpt: |-
   We will add a custom domain to your GitHub Pages blog.
-
+related_posts:
+- how-to-start-a-blog-for-free
+- 5-reasons-to-start-blogging
 permalink: '/github-pages/:slug'
 ---
 

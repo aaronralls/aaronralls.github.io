@@ -31,6 +31,9 @@ author:
   #last_name: ''
 excerpt: Design a professional REST API and Azure environments that will be ready
   for a production environment.
+related_posts:
+- free-microsoft-training-pluralsight
+- 5-reasons-to-start-blogging
 permalink: '/dotnetcore/:slug'
 ---
 
