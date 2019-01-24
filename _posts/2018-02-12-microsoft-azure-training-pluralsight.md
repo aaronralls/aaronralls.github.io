@@ -32,6 +32,7 @@ author:
   #last_name: ''
 related_posts:
 - azure-functions-logic-app-csv-to-json
+- microsoft-ignite-2017-review
 - 5-reasons-to-start-blogging
 permalink: '/azure/:slug'
 ---
