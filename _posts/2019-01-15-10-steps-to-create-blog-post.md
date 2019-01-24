@@ -349,4 +349,4 @@ In a future post, I will show you how to apply these steps on a post with GitHub
 [PrepWork]: /assets/images/20190115/prepwork.jpg "It's all about the prep work"
 [StarWarsForceImg]: /assets/images/20190115/theforce.jpg "Let the force flow through you. Star Wars reference with Darth Vader."
 [BlogForest]: /assets/images/20190115/blog-category-tag-forest.jpg "Blog Categories and Tags are like a forest."
-[SampleSearchEngineResults]: /assets/images/20190115/search-results.jpg "sample search engine result"
+[SampleSearchEngineResults]: /assets/images/20190115/search-results.JPG "sample search engine result"
