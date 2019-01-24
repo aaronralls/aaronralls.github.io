@@ -1,19 +1,35 @@
 <!-- /_includes/featured.html -->
 <h3 class="tile__header">{% if page.feature.headline %}{{ page.feature.headline }}{% else %}Featured Posts{% endif %}</h3>
   <div class="tiles">
-    {% assign features = site.categories[post.tags] | where:"featured", true %}
-    {% for post in features limit:3 %}
-      <article class="tile__item" itemscope itemtype="http://schema.org/CreativeWork">
-        <meta itemprop="text" content="{{ post.excerpt | strip_html }}">
-        <a href="{{ post.url }}">
-          <img src="{% if post.image.teaser %}{{ post.image.teaser }}{% else %}{{ site.teaser }}{% endif %}" itemprop="image" alt="{{ post.title }}">
-          <h3 class="tile__title" itemprop="headline">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</h3>
-          {% assign readtime = post.content | strip_html | number_of_words | divided_by:site.words_per_minute %}
-          <span class="tile__item-time">{% if readtime <= 1 %}1{% else %}{{ readtime }}{% endif %} min read</span>
-        </a>
-        {% if post.work %}
-          <span class="tile__category">{{ post.work }}</span>
-        {% endif %}
-      </article>
+    {% assign features = page.related_posts  %}
+
+    {% for post in site.posts %}
+      {% for related_post in features limit:3 %}
+        {% if related_post ==  post.slug %}
+          <article class="" itemscope itemtype="https://schema.org/CreativeWork">
+            <img src="{{ post.image | prepend: site.baseurl }}" width="200" alt="{{ post.title }}" title="{{ post.title }}">
+            
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.summary | escape }}
+              </a>
+            </h3>
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            {% assign words = post.content | number_of_words %}
+            {% if words < 360 %}
+            <span class="post-meta">• 1 min</span>
+            {% else %}
+            <span class="post-meta">• {{ words | divided_by:180 }} mins</span>
+            {% endif %}
+            {% if post.excerpt %}
+              <p class="" itemprop="description" >{{ post.excerpt | markdownify | strip_html | truncate:160 }}</p>
+            {% endif %}
+            {%- if site.show_excerpts -%}
+              
+            {%- endif -%}
+          </article>
+          {% endif %}
+      {% endfor %}
     {% endfor %}
   </div

@@ -21,6 +21,9 @@ categories:
 tags:
 - GitHub
 - Blog
+related_posts:
+- how-to-start-a-blog-for-free
+- 5-reasons-to-start-blogging
 #image_sliders:
 #  - sliderVerifyGitHubBlog
 permalink: '/blogging/:slug'
