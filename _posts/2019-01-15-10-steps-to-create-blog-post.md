@@ -24,6 +24,7 @@ tags:
 related_posts:
 - how-to-start-a-blog-for-free
 - 5-reasons-to-start-blogging
+- 5-steps-to-publish-blog-post
 #image_sliders:
 #  - sliderVerifyGitHubBlog
 permalink: '/blogging/:slug'
@@ -95,7 +96,7 @@ Every post should have a header image. Even if you don't show it on your page it
 
 The header image should be something that is related in some way to your content. You may decide to change this or do this after you have flushed out the [title](#Title-and-Main-Heading).
 
-I like to use the [Unsplash][Unsplash] web site  since the images are free and you can save images to collections. 
+I like to use the [Unsplash][Unsplash] web site  since the images are free and you can save images to collections.
 
 {% include note.html content="Be sure to attribute the images you use to the photographer." %}
 
@@ -307,12 +308,13 @@ Now you can go to your website CMS tool and input all of your work and polish th
 
 If you do not have a site yet check out my post on where you can [blog on other sites][BlogOtherSites] or how you can [start a blog for free][FreeBlog]!
 
-In a future post, I will show you how to apply these steps on a post with GitHub Pages.
+In a future [post][CreatePostForGithubPages], I will show you how to apply these steps on a post with GitHub Pages.
 
 [HowToStartBlogForFree]: {% post_url 2019-01-10-how-to-start-a-blog-for-free %}  "How to start a blog for free"
 [5ReasonsPost]: {% post_url 2019-01-07-5-reasons-to-start-blogging %}  "5 Reasons you should Blog!"
 [FreeBlog]: {% post_url 2019-01-10-how-to-start-a-blog-for-free %} "Free Blog"
 [BlogOtherSites]: {% post_url 2019-01-08-how-to-blog-without-a-blog %} "How to blog without a blog"
+[CreatePostForGithubPages]: {% post_url 2019-01-17-how-to-create-post-for-github-pages-blog %} "10 Steps to Publish Github Blog Post"
 
 [BlogPostInspiration]: https://somelink.com "something"
 [StructureURLs]: https://moz.com/blog/15-seo-best-practices-for-structuring-urls "Structure URLS"
