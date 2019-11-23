@@ -52,16 +52,16 @@ To learn more about me be sure that you read my [previous][StepsCreateBlogPost] 
 
 Here are the updates I will cover.
 
-- [Microsoft Secure Code Analysis toolkit](#Microsoft-Secure-Code-Analysis-toolkit)
-- [Training for Azure DevOps Engineer Expert (Exam AZ-400)](#Training-for-Azure-DevOps-Engineer-Expert:-Exam-AZ-400)
-- [Training for Azure Functions](#Training-for-Azure-Functions)
-- [Cognitive Services Updates](#Cognitive-Services-Updates)
-- [Kubernetes based event-driven auto scaling (KEDA) 1.0 release](#Kubernetes-based-event-driven-auto-scaling-KEDA-1.0-release)
-- [Azure Arc](#Azure-Arc)
-- [Azure Firewall Manager](#Azure-Firewall-Manager)
-- [Azure Bastion](#Azure-Bastion)
-- [Azure Security Center Updates](#Azure-Security-Center-Updates)
-- [Azure Spring Cloud](#Azure-Spring-Cloud)
+- [Microsoft Secure Code Analysis toolkit](#microsoft-secure-code-analysis-toolkit)
+- [Training for Azure DevOps Engineer Expert (Exam AZ-400)](#training-for-azure-devops-engineer-expert-exam-az-400)
+- [Training for Azure Functions](#training-for-azure-functions)
+- [Cognitive Services Updates](#cognitive-services-updates)
+- [Kubernetes based event-driven auto scaling (KEDA) 1.0 release](#kubernetes-based-event-driven-auto-scaling-keda-1-release)
+- [Azure Arc](#azure-arc)
+- [Azure Firewall Manager](#azure-firewall-manager)
+- [Azure Bastion](#azure-bastion)
+- [Azure Security Center Updates](#azure-security-center-updates)
+- [Azure Spring Cloud](#azure-spring-cloud)
 
 ## Microsoft Secure Code Analysis toolkit
 
@@ -79,7 +79,7 @@ By adding the Secure Code Analysis toolkit to the support program you should be 
 
 I give this update 5/10 Astronauts because it's an existing tool that has been brought into the Microsoft Unified Support model.
 
-## Training for Azure DevOps Engineer Expert: Exam AZ-400
+## Training for Azure DevOps Engineer Expert Exam AZ-400
 
 Microsoft added content on their learning site for [Azure DevOps Training][AzureDevOpsLearningPath] for the [AZ-400 exam][ExamAZ-400] that you may use to achieve the [Microsoft Certified: Azure DevOps Engineer Expert][AzureDevOpsEngineerExpertCertification] title.
 
@@ -125,7 +125,7 @@ There is a new [Bot Framework Composer][CognitiveServicesBotFrameworkComposer] t
 
 I have to give this 8/10 Astronauts due to the expansion of the Text Analytics to recognize personally identifiable information. Data security is critical and have another tool to help manage that data is critical. Then the addition of the Bot Framework Composer will allow people to start tinkering with bots and leveraging them in more of their products.
 
-## Kubernetes based event-driven auto scaling KEDA 1.0 release
+## Kubernetes based event-driven auto scaling KEDA 1 release
 
 What is KEDA? Well here is an excerpt from their [documentation][KEDAGitHub].
 
@@ -187,7 +187,7 @@ Another great addition is the ability to perform an action on a large set of res
 
 Other updates included:
 
-- [Regulatory Compliance][AzureSecurityCenterRegulatoryComplianceDashboard] dashboard
+- [Regulatory Compliance dashboard][AzureSecurityCenterRegulatoryComplianceDashboard] 
 - [Scanning of container Images][AzureSecurityCenterScanContainers]
 - [Threat protection for Azure Kubernetes Service][AzureSecurityCenterThreatProtectionAKS]
 - [Custom Policies][AzureSecurityCenterCustomPolicies]
@@ -201,9 +201,10 @@ Other updates included:
 
 I have to give this 6/10 Astronauts since Azure is the only public cloud provider that offers this fully managed environment for Spring Cloud.
 
-## Parting Thoughts - Let me be a branch
+## Parting Thoughts - Let me be your branch
 
-Photo by [Faye Cornish][FayeCornsihPhotoCredit] on [Unsplash][UnsplashLink]
+![Tree Image][TreeImage]
+*Photo by [Faye Cornish][FayeCornsihPhotoCredit] on [Unsplash][UnsplashLink]*
 
 There will always be a constant fire hose of new information in the IT industry.
 
@@ -229,13 +230,13 @@ Be sure you read my [post][FreeBlog] on how you can get a free blog!
 
 [UnsplashLink]: https://unsplash.com/ "Unsplash"
 [FayeCornsihPhotoCredit]: https://unsplash.com/@fcornish "Faye Cornsih Photo Credit"
+[TreeImage]: /assets/images/20191121/faye-cornish-tree-unsplash.jpg "Tree Photo by Faye Cornish"
 
 [MicrosoftSecurityCodeAnalysis]: https://docs.microsoft.com/en-us/azure/security/develop/security-code-analysis-overview "About Microsoft Security Code Analysis"
 [MicrosoftUnifiedSupport]: https://www.microsoft.com/en-us/enterprise/services/unified-support-solutions "Microsoft Unified Support"
 [MicrosoftUnifiedSupportAnnouncement]: https://redmondmag.com/articles/2017/08/25/microsoft-unified-support-program.aspx "Microsoft Unified Support Announcement"
 [AzureDevOpsLearningPath]: https://docs.microsoft.com/en-us/learn/paths/evolve-your-devops-practices/ "Azure DevOps Learning Path for Exam AZ-400"
-[AzureDevOpsEngineerExpertCertification]: https://docs.microsoft.com/en-us/learn/certifications/azure-devops "Microsoft Certified: Azure DevOps Engineer Expert AZ-400
-"
+[AzureDevOpsEngineerExpertCertification]: https://docs.microsoft.com/en-us/learn/certifications/azure-devops "Microsoft Certified: Azure DevOps Engineer Expert AZ-400"
 [ExamAZ-400]: https://docs.microsoft.com/en-us/learn/certifications/exams/az-400 "Exam AZ-400: Microsoft Azure DevOps Solutions"
 [AzureDevOpsLabsSite]: https://azuredevopslabs.com/ "Azure DevOps Labs website"
 [OpenEDXAZ-400]: https://openedx.microsoft.com/courses/course-v1:Microsoft+AZ-400.1+2019_T1/about "Azure DevOps Training on OpenEDX website"
