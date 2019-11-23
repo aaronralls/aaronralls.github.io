@@ -73,11 +73,13 @@ With this extension you can run Anti-Malware scanner, credential scanner, and ot
 
 *__Why is this a big deal?__*
 
+![Rating 5 of 10][Rating5of10]
+
+I give this update 5/10 Astronauts because it's an existing tool that has been brought into the Microsoft Unified Support model.
+
 Microsoft Unified Support is the new support model that is replacing the Microsoft Premier Support program that was [announced in 2017][MicrosoftUnifiedSupportAnnouncement].
 
 By adding the Secure Code Analysis toolkit to the support program you should be able to get better help from Microsoft resources.
-
-I give this update 5/10 Astronauts because it's an existing tool that has been brought into the Microsoft Unified Support model.
 
 ## Training for Azure DevOps Engineer Expert Exam AZ-400
 
@@ -85,9 +87,11 @@ Microsoft added content on their learning site for [Azure DevOps Training][Azure
 
 *__Why is this a big deal?__*
 
-[Azure DevOps][AzureDevOps] is great product that allows you to manage you code with repositories, your projects with agile tools like Azure Boards, CI/CD pipelines, and so many more features. This training allows you to get up to speed and aware of what the product can do for you, without having to do any setup.
+![Rating 6 of 10][Rating6of10]
 
 I give this update 6/10 Astronauts because free training is awesome! I can't give it any more Astronauts because there are no sample exam questions and it's not one of the more marketable exams like the AZ-300, AZ-301 or other Azure exams. Additionally, there is other free training that is out on [OpenEDX.com][OpenEDXAZ-400] and [Azure DevOps Labs website][AzureDevOpsLabsSite].
+
+[Azure DevOps][AzureDevOps] is great product that allows you to manage you code with repositories, your projects with agile tools like Azure Boards, CI/CD pipelines, and so many more features. This training allows you to get up to speed and aware of what the product can do for you, without having to do any setup.
 
 Lastly, my good friend [Gregor Suttie][GregorSuttieTwitter] has a good [blog post][GregorSuttieAZ-400StudyNotesPost] of study material for this exam.
 
@@ -97,9 +101,11 @@ Lastly, my good friend [Gregor Suttie][GregorSuttieTwitter] has a good [blog pos
 
 *__Why is this a big deal?__*
 
-Once again free training is a plus. If you are just learning about Azure or have applications running in Azure you need to have Azure Functions on your learning radar. Additionally, if you are preparing for the Azure certifications you will need to review Azure Functions.
+![Rating 5 of 10][Rating5of10]
 
 I give this update a 5/10 Astronauts because the material is free, but it's not a comprehensive course.
+
+Once again free training is a plus. If you are just learning about Azure or have applications running in Azure you need to have Azure Functions on your learning radar. Additionally, if you are preparing for the Azure certifications you will need to review Azure Functions.
 
 For more free training resources on Azure Functions see the Microsoft Docs [website][MicrosoftDocsAzureFunctions].
 
@@ -123,6 +129,8 @@ There is a new [Bot Framework Composer][CognitiveServicesBotFrameworkComposer] t
 
 *__Why is this a big deal?__*
 
+![Rating 8 of 10][Rating8of10]
+
 I have to give this 8/10 Astronauts due to the expansion of the Text Analytics to recognize personally identifiable information. Data security is critical and have another tool to help manage that data is critical. Then the addition of the Bot Framework Composer will allow people to start tinkering with bots and leveraging them in more of their products.
 
 ## Kubernetes based event-driven auto scaling KEDA 1 release
@@ -132,6 +140,8 @@ What is KEDA? Well here is an excerpt from their [documentation][KEDAGitHub].
 "KEDA allows for fine grained auto scaling (including to/from zero) for event driven Kubernetes workloads. KEDA serves as a Kubernetes Metrics Server and allows users to define auto scaling rules using a dedicated Kubernetes custom resource definition."
 
 *__Why is this a big deal?__*
+
+![Rating 8 of 10][Rating8of10]
 
 I give this 8/10 Astronauts since it adds a new ways to allow you to scale your Kubernetes containers beyond the CPU and memory metrics.
 
@@ -147,6 +157,8 @@ This will allow customers to manage the portfolio of cloud assets with a common 
 
 *__Why is this a big deal?__*
 
+![Rating 10 of 10][Rating10of10]
+
 This is a game changer and is 10/10 Astronauts! This will allow you to create an Azure SQL Database in your data center using the Microsoft Azure Cloud Shell and manage it via the Azure Portal.
 
 Another scenario is that you will be able to manage your Amazon EC2 and VMware vSphere VM's via the [Azure Resource Manager][AzureResourceManager] (ARM).
@@ -161,6 +173,8 @@ The new [Azure Firewall Manger][AzureFirewallManager] is in public preview and w
 
 *__Why is this a big deal?__*
 
+![Rating 4 of 10][Rating4of10]
+
 I will give this 4/10 Astronauts because while being a good new offering it has some issues and is just in public preview, meaning it's not ready for production.
 
 I will revisit this as the product matures.
@@ -171,6 +185,8 @@ I will revisit this as the product matures.
 
 *__Why is this a big deal?__*
 
+![Rating 8 of 10][Rating8of10]
+
 I will give this 8/10 Astronauts because improving your security is important and this product allows you to do away with jump boxes.
 
 ## Azure Security Center Updates
@@ -180,6 +196,8 @@ I will give this 8/10 Astronauts because improving your security is important an
 At Ignite 2019 they rolled out some new features.
 
 *__Why is this a big deal?__*
+
+![Rating 6 of 10][Rating6of10]
 
 I will give this 6/10 Astronauts because they added the ability to created automated configurations using [Azure Logic Apps][AzureLogicApps].
 
