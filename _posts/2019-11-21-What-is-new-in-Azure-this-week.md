@@ -5,7 +5,7 @@ slug: What-is-new-in-Azure-episode-1
 summary: "What is new in Azure: Episode 1"
 excerpt: 
   You have your Github Pages blog post content ready to go, but aren't sure how to put that in your site. Follow these steps to get your post live!
-image: /assets/images/20191127/header.jpg
+image: /assets/images/20191121/header.jpg
 twitter_image: /assets/images/20191121/twitter-image.jpg
 facebook_link_image: /assets/images/20191121/facebook-link-image.jpg
 date: 2019-11-21 02:34:24.000000000 -05:00
