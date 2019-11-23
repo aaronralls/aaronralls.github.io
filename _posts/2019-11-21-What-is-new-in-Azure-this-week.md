@@ -199,6 +199,8 @@ Other updates included:
 
 *__Why is this a big deal?__*
 
+![Rating 6 of 10][Rating6of10]
+
 I have to give this 6/10 Astronauts since Azure is the only public cloud provider that offers this fully managed environment for Spring Cloud.
 
 ## Parting Thoughts - Let me be your branch
@@ -227,6 +229,17 @@ Be sure you read my [post][FreeBlog] on how you can get a free blog!
 [BlogOtherSites]: {% post_url 2019-01-08-how-to-blog-without-a-blog %} "How to blog without a blog"
 [StepsCreateBlogPost]: {% post_url 2019-01-15-10-steps-to-create-blog-post %} "10 Steps to Create a Successful Blog Post"
 [CreatePostForGithubPages]: {% post_url 2019-01-17-how-to-create-post-for-github-pages-blog %} "10 Steps to Publish Github Blog Post"
+
+[Rating1of10]: /assets/images/templates/astronaut-rating-1-of-10.png "Rating 1 of 10 Astronauts"
+[Rating2of10]: /assets/images/templates/astronaut-rating-2-of-10.png "Rating 2 of 10 Astronauts"
+[Rating3of10]: /assets/images/templates/astronaut-rating-3-of-10.png "Rating 3 of 10 Astronauts"
+[Rating4of10]: /assets/images/templates/astronaut-rating-4-of-10.png "Rating 4 of 10 Astronauts"
+[Rating5of10]: /assets/images/templates/astronaut-rating-5-of-10.png "Rating 5 of 10 Astronauts"
+[Rating6of10]: /assets/images/templates/astronaut-rating-6-of-10.png "Rating 6 of 10 Astronauts"
+[Rating7of10]: /assets/images/templates/astronaut-rating-7-of-10.png "Rating 7 of 10 Astronauts"
+[Rating8of10]: /assets/images/templates/astronaut-rating-8-of-10.png "Rating 8 of 10 Astronauts"
+[Rating9of10]: /assets/images/templates/astronaut-rating-9-of-10.png "Rating 9 of 10 Astronauts"
+[Rating10of10]: /assets/images/templates/astronaut-rating-10-of-10.png "Rating 10 of 10 Astronauts"
 
 [UnsplashLink]: https://unsplash.com/ "Unsplash"
 [FayeCornsihPhotoCredit]: https://unsplash.com/@fcornish "Faye Cornsih Photo Credit"
