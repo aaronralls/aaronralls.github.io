@@ -4,7 +4,7 @@ title: "What is new in Azure: Episode 1"
 slug: What-is-new-in-Azure-episode-1
 summary: "What is new in Azure: Episode 1"
 excerpt: 
-  You have your Github Pages blog post content ready to go, but aren't sure how to put that in your site. Follow these steps to get your post live!
+  Stay up to date with Azure and see what's new for the week of 11/21/2019!
 image: /assets/images/20191121/header.jpg
 twitter_image: /assets/images/20191121/twitter-image.jpg
 facebook_link_image: /assets/images/20191121/facebook-link-image.jpg
@@ -40,7 +40,15 @@ permalink: '/azure/updates/:slug'
 
 Welcome to my new weekly blog series to help you stay up to date with Azure!
 
-I will scour the "interwebs" for the best updates and changes related to Azure.
+I will scour the "interwebs" for the best updates and changes related to Azure and rate them on a scale of 10 Astronauts.
+
+What? Astronauts?
+
+Yes, Astronauts!
+
+The Astronaut is part of my new logo and they get to see the clouds from the best perspective and have great knowledge and wisdom.
+
+Yes this is corny!
 
 I won't cover every single update, just those I feel will benefit the largest possible audience.
 
