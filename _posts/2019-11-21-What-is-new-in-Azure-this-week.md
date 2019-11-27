@@ -29,7 +29,7 @@ tags:
 - Azure Cognitive Services
 - Spring Cloud
 related_posts:
-- how-to-start-a-blog-for-free
+- what-is-new-in-azure-episode-2
 - 5-reasons-to-start-blogging
 #image_sliders:
 #  - sliderVerifyGitHubBlog
@@ -213,7 +213,7 @@ Another great addition is the ability to perform an action on a large set of res
 
 Other updates included:
 
-- [Regulatory Compliance dashboard][AzureSecurityCenterRegulatoryComplianceDashboard] 
+- [Regulatory Compliance dashboard][AzureSecurityCenterRegulatoryComplianceDashboard]
 - [Scanning of container Images][AzureSecurityCenterScanContainers]
 - [Threat protection for Azure Kubernetes Service][AzureSecurityCenterThreatProtectionAKS]
 - [Custom Policies][AzureSecurityCenterCustomPolicies]
