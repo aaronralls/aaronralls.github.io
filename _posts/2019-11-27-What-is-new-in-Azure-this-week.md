@@ -60,7 +60,7 @@ permalink: '/azure/updates/:slug'
 
 Welcome to my second post in this new weekly blog series to help you stay up to date with Azure!
 
-If you want to get the background on my rating system please read the intro in [Episode1][AzureUpdatesEpisode1Post]
+If you want to get the background on my rating system please read the intro in [Episode 1][AzureUpdatesEpisode1Post]
 
 I won't cover every single update, just those I feel will benefit the largest possible audience.
 
@@ -90,15 +90,15 @@ If you are new to [Azure Blob Storage][AzureBlobStorage] be sure to read up on h
 
 ![Rating 7 of 10][Rating7of10]
 
-I give this update 7/10 Astronauts because Azure Blob storage is a commonly used asset and by allowing you to tie the log changes to event-driven applications can be a game changer compared to what is available today.
+I give this update 7/10 Astronauts because Azure Blob storage is a commonly used asset and by allowing you to tie the log changes to event-driven applications can be a game-changer compared to what is available today.
 
 Previously I built an [Azure Logic App][AzureLogicApps] that would run every 10 minutes to see if a new blob was saved to a container using the [Azure Blob Storage Connector][AzureBlobStorageConnectorDocs]. An alternative would be to have the [blob storage events][BlobStorageEventsDocs] pass through [Azure Event Grid][AzureEventGridDocs] and then consume them via an [Azure Function][MicrosoftDocsAzureFunctions].
 
-With this new feature you can update this process to audit all of the changes and/or to process the changes in the order.
+With this new feature, you can update this process to audit all of the changes and/or to process the changes in the order.
 
 ## Azure Virtual Machines Isolation Changes D15 and DS15 v2
 
-As of Feb 15, 2020 the D15_v2 and DS15_v2 Linux Virtual Machines may no longer be isolated. Read the [Announcement][AzureD15DS15NoLongerIsolatedAnnouncement] specific details.
+As of Feb 15, 2020, the D15_v2 and DS15_v2 Linux Virtual Machines may no longer be isolated. Read the [Announcement][AzureD15DS15NoLongerIsolatedAnnouncement] specific details.
 
 *__Why is this a big deal?__*
 
@@ -122,7 +122,7 @@ Second, [Azure HDInsight][AzureHDInsightDocs] is where you would be running data
 
 Protecting your data and your customers is critical.
 
-So go learn the nitty gritty on [Service Tags][AzureServiceTags] and [Azure Service Tags For HDInsight][AzureServiceTagsForHDInsightDocumentation]!
+So go learn the nitty-gritty on [Service Tags][AzureServiceTags] and [Azure Service Tags For HDInsight][AzureServiceTagsForHDInsightDocumentation]!
 
 ## Azure DB Service Health Notifications
 
@@ -180,13 +180,13 @@ Restore as files anywhere!!
 
 I give this update 9/10 Astronauts because these changes are HUGE!
 
-Monitoring database backups is important and most people don't think to look at them or their status until a production issue comes up. This will help you keep a tab on them proactively.
+Monitoring database backups are important and most people don't think to look at them or their status until a production issue comes up. This will help you keep a tab on them proactively.
 
 See the documentation for a complete list of [Azure SQL Database Metrics][AzureSQLDBMetricsDocs] you may monitor with [Azure Metrics Explorer][AzureMetricsExplorerDocs].
 
 The second part I mentioned about adding more SQL and Windows versions to [Azure backup][SQLServerBackupInVMDocumentation] is nice, the real beauty is the ability to restore as files!
 
-This will give you more flexibility to manage your database recover processes.
+This will give you more flexibility to manage your database recovery processes.
 
 I know this is really three announcements, but they made sense to cover as one topic.
 
@@ -206,7 +206,7 @@ This allows for new Azure Service Integrations with Data Lake
 
 ![Rating 7 of 10][Rating7of10]
 
-I give this update 7/10 Astronauts because the added capability of using other Azure services to take real-time action.
+I give this update 7/10 Astronauts because of the added capability of using other Azure services to take real-time action.
 
 A bonus addition is that they are now allowing customers to have data on different tiers, hot and cool, to reduce costs.
 
@@ -219,19 +219,19 @@ You should read up on the [Data Lake Multi Protocol Access Docs][DataLakeMultiPr
 
 I used to hate to read.
 
-In high school we had books we had to read, well I was supposed to read them.
+In high school, we had books we had to read, well I was supposed to read them.
 
 They were dreadful titles like ["Wuthering Heights"][WutheringHeightsWiki].
 
-That turned me off on reading until I was in the US NAVY, stuck on an air craft carrier in the middle of the ocean with nothing to do.
+That turned me off on reading until I was in the US NAVY, stuck on an aircraft carrier in the middle of the ocean with nothing to do.
 
-I picked up a friends book and found I liked to read.
+I picked up a friend's book and found I liked to read.
 
 Fast forward to the start of my IT career...I realized I enjoyed to read because I liked to learn more and reading was an efficient way for me to do so.
 
 I would read books on COM like the ["Essential COM"][EssentialCOMbook] book by [Don Box][DonBoxWiki] and try to understand every detail like I was staring at a beautiful painting trying to take in all its meaning.
 
-My eagerness to read has helped me keep up with the never ending changes in IT.
+My eagerness to read has helped me keep up with the never-ending changes in IT.
 
 So find some time each day to read something.
 

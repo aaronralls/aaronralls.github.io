@@ -43,14 +43,10 @@ To learn more about me, be sure that you read my [post][StepsCreateBlogPost] on 
 Here are the updates I will cover.
 
 - [Live transcription with Azure Media Services](#live-transcription-with-azure-media-services)
-- [Azure Virtual Machines Isolation Changes D15 and DS15 v2](#azure-virtual-machines-isolation-changes-d15-and-ds15-v2)
-- [Azure HDInsight Create NSG rules with service tags](#azure-hdinsight-create-nsg-rules-with-service-tags)
-- [AzureDB Service Health Notifications](#azure-db-service-health-notifications)
-- [Azure Migrate Assess Servers from CSV file](#azure-migrate-assess-servers-from-csv-file)
-- [Azure Backup extended support](#azure-backup-extended-support)
-- [Azure Data Lake Updates](#azure-data-lake-updates)
 
 ## Live transcription with Azure Media Services
+
+[announcement][AzureMediaServicesLiveTranscriptionAnnouncement]
 
 The new [Change feed][ChangeFeedAnnouncement] feature is in preview and will provide a read-only log that will allow you to see all the actions that have taken place to the blobs.
 
@@ -70,10 +66,6 @@ With this new feature you can update this process to audit all of the changes an
 
 ![Reading Image][ReadingImage]
 *Photo by [Peter Lawrence][ReadingPhotoCredit] on [Unsplash][UnsplashLink]*
-
-[MariaDB docs][AzureDBForMariaDBDocumentation]
-[Monitor MariaDB][MonitorMariaDBServiceHealthDocs]
-[MariaDB][MariaDBSite]
 
 I used to hate to read.
 
@@ -124,56 +116,4 @@ Be sure you read my [Episode #1][AzureUpdatesEpisode1Post] post on previous Azur
 [ReadingPhotoCredit]: https://unsplash.com/@chesterfordhouse "Peter Lawrence Photo Credit"
 [ReadingImage]: /assets/images/20191127/peter-lawrence-people-reading-on-subway-unsplash.jpg "People Reading on subway Photo by Peter Lawrence"
 
-[AzureBlobStorage]: https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction "Azure Blob Storage documentation"
-[ChangeFeedAnnouncement]: https://azure.microsoft.com/en-us/blog/change-feed-support-now-available-in-preview-for-azure-blob-storage/ "Change feed for Azure Blob Storage Announcement"
-[AzureBlobStorageConnectorDocs]: https://docs.microsoft.com/en-us/connectors/azureblob/ "Azure Blob Storage Connector Docs"
-[AzureLogicApps]: https://azure.microsoft.com/en-us/services/logic-apps/ "Azure Logic Apps"
-[AzureEventGridDocs]: https://docs.microsoft.com/en-us/azure/event-grid/overview "Azure Event Grid Docs"
-[MicrosoftDocsAzureFunctions]: https://docs.microsoft.com/en-us/azure/azure-functions/ "Microsoft Docs Azure Functions"
-[BlobStorageEventsDocs]: https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-event-overview "[Blob Storage Events Docs]"
-
-[AzureD15DS15NoLongerIsolatedAnnouncement]: https://azure.microsoft.com/en-us/updates/the-d15-v2-ds15-v2-azure-virtual-machines-may-no-longer-be-isolated-starting-february-15-2020/ "Azure VM D15 and DS15 no longer isolated"
-[AzureDedicatedHostPreviewAnnouncement]: https://azure.microsoft.com/en-us/blog/introducing-azure-dedicated-host/ "Azure Dedicated Host"
-[AzureD15IsolationQandA]: https://docs.microsoft.com/en-us/azure/virtual-machines/linux/isolation#retiring-d15_v2ds15_v2-isolation-on-february-15-2020
-
-[AzureHDInsighServiceTagAnnouncement]: https://azure.microsoft.com/en-us/updates/simplify-nsg-rules-management-for-azure-hdinsight-using-service-tags/ "Azure HDInsight Create NSG rules with service tags"
-[AzureServiceTags]: https://docs.microsoft.com/en-us/azure/virtual-network/security-overview#service-tags "Azure Service Tags"
-[AzureServiceTagsForHDInsightDocumentation]: https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-service-tags "Azure Service Tags For HDInsight Documentation"
-[AzureHDInsightDocs]: https://docs.microsoft.com/en-us/azure/hdinsight/hdinsight-overview "Azure HDInsight Docs"
-[AzureNSGDocs]: https://docs.microsoft.com/en-us/azure/virtual-network/security-overview "AZure Network Security Group Docs"
-
-[AzureDBForMariaDBDocumentation]: https://docs.microsoft.com/en-us/azure/mariadb/ "Azure Database for MariaDB documentation"
-[AzureServiceHealthDocumentation]: https://docs.microsoft.com/en-us/azure/service-health/overview "Azure Service Health documentation"
-[MonitorMariaDBServiceHealthDocs]: https://docs.microsoft.com/en-us/azure/mariadb/concepts-monitoring#service-health "Monitor MariaDB Service Health"
-[AzureDBforMariaDBServiceHealthAnnouncement]: https://azure.microsoft.com/en-us/updates/azure-database-for-mariadb-support-for-service-health-notifications-for-planned-maintenance-is-now-in-preview-in-east-us-and/ "Azure DB for MariaDB Service Health Announcement"
-[MariaDBSite]: https://mariadb.org/about/ "MariaDB website"
-[AzureDBforMySQLServiceHealthAnnouncement]: https://azure.microsoft.com/en-us/updates/azure-database-for-mysql-support-for-creating-activity-log-alerts-for-service-health-notification-is-now-in-preview/ "AzureDB for MySQL Service Health Announcement"
-[AzureDBforPostgreSQLServiceHealthAnnouncement]: https://azure.microsoft.com/en-us/updates/azure-database-for-postgresql-single-server-support-for-service-health-notifications-for-planned-maintenance-is-now-in-previe/ "AzureDB for PostgreSQL Service Health Announcement"
-[AzureServiceHealthDocs]: https://docs.microsoft.com/en-us/azure/service-health/overview "Azure Service Health Docs"
-
-[AzureMigrateAssessCSVAnnouncement]: https://azure.microsoft.com/en-us/updates/assessment-of-imported-servers-now-supported-in-preview/ "Azure Migrate Assess CSV Announcement"
-[AzureMigrateAssessDocumentation]: https://docs.microsoft.com/en-us/azure/migrate/tutorial-assess-import "Azure Migrate Assess Documentation"
-[CMDBWiki]: https://en.wikipedia.org/wiki/Configuration_management_database "Configuration management database wiki"
-[AzureMigrateDocs]: https://docs.microsoft.com/en-us/azure/migrate/migrate-services-overview "Azure Migrate Docs"
-
-[AzureSQLDBBackupMetricsAnnouncement]: https://azure.microsoft.com/en-us/updates/new-azure-sql-database-backup-storage-metrics-are-now-generally-available/ "Azure SQL DB Backup Metrics Announcement"
-[AzureMetricsExplorerDocs]: https://docs.microsoft.com/en-us/azure/azure-monitor/platform/metrics-charts "Azure Metrics Explorer Documentation"
-[AzureSQLDBMetrics]: https://docs.microsoft.com/en-us/azure/azure-monitor/platform/metrics-supported#microsoftsqlserversdatabases "Azure SQL DB Metrics"
-[AzureSQLDBMetricsDocs]: https://docs.microsoft.com/en-us/azure/azure-monitor/platform/metrics-supported#microsoftsqlserversdatabases "Azure SQL DB Metrics Docs"
-[AzureBackupSQLAsFiles]: https://azure.microsoft.com/en-us/blog/azure-backup-support-for-sql-server-2019-and-restore-as-files/ "Azure Backup SQL as Files"
-
-[AzureBackupSupportSQLServer2019AVM]:https://azure.microsoft.com/en-us/blog/azure-backup-support-for-sql-server-2019-and-restore-as-files/ "Azure Backup Support SQL Server 2019 AVM"
-[SQLServerBackupInVMDocumentation]: https://docs.microsoft.com/en-us/azure/backup/backup-azure-sql-database "SQL Server Backup In VM Documentation"
-
-[VideoIndexerMultiLanguageSupportAnnouncement]: https://azure.microsoft.com/en-us/blog/multi-language-identification-and-transcription-in-video-indexer/ "Video Indexer Multi-Language Support Announcement"
-[VideoIndexerWebsite]: https://vi.microsoft.com/ "Video Indexer website"
-[VideoIndexerDocumentation]: https://docs.microsoft.com/en-us/azure/media-services/video-indexer/video-indexer-overview "Video Indexer Documentation"
-[VideoIndexerOverview]: https://azure.microsoft.com/en-us/services/media-services/video-indexer/ "Video Indexer Overview"
-
-[AzureDataLakeUpdatesAnnouncement]: https://azure.microsoft.com/en-us/blog/multi-protocol-access-on-data-lake-storage-now-generally-available/ "AzureDataLakeUpdatesAnnouncement"
-[DataLakeMultiProtocolAccessDocs]: https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-multi-protocol-access "Data Lake Multi Protocol Access Docs"
-
-[WutheringHeightsWiki]: https://en.wikipedia.org/wiki/Wuthering_Heights "Wuthering Heights Wiki"
-[DonBoxWiki]: https://en.wikipedia.org/wiki/Don_Box "Don Box Wiki"
-[EssentialCOMbook]: https://www.goodreads.com/book/show/919597.Essential_Com "Essential COM book by Don Box"
-[MicrosoftLearnSite]: https://docs.microsoft.com/en-us/learn/ "Microsoft Learn website"
+[AzureMediaServicesLiveTranscriptionAnnouncement]: https://azure.microsoft.com/en-us/blog/preview-live-transcription-with-azure-media-services/ "AzureMedia ServicesLive Transcription"
