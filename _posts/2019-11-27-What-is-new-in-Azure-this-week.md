@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is new in Azure: Episode 2"
-slug: What-is-new-in-Azure-episode-2
+slug: what-is-new-in-azure-episode-2
 summary: "What is new in Azure: Episode 2"
 excerpt: 
   Stay up to date with Azure and see what's new for the week of 11/27/2019!

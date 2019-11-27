@@ -57,6 +57,7 @@ excerpt: |-
 related_posts:
 - microsoft-ignite-2017-review
 - azure-functions-logic-app-csv-to-json
+- what-is-new-in-azure-episode-1
 permalink: '/developer-career/:slug'
 ---
 
