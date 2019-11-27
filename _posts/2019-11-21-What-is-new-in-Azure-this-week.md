@@ -248,6 +248,9 @@ I hope I can become a branch on your tree of knowledge to help you in your caree
 
 Be sure you read my [post][FreeBlog] on how you can get a free blog!
 
+*__Update: 11-27-2019__*
+Check out [Episode #2][AzureUpdatesEpisode2Post] of Azure updates!
+
 [HowToStartBlogForFree]: {% post_url 2019-01-10-how-to-start-a-blog-for-free %}  "How to start a blog for free"
 [AddCustomDomainGitHubPages]: {% post_url 2019-01-13-how-to-add-custom-domain-github-pages-blog %} "How to add Custom Domain to GitHub Pages Blog"
 [5ReasonsPost]: {% post_url 2019-01-07-5-reasons-to-start-blogging %}  "5 Reasons you should Blog!"
@@ -255,6 +258,7 @@ Be sure you read my [post][FreeBlog] on how you can get a free blog!
 [BlogOtherSites]: {% post_url 2019-01-08-how-to-blog-without-a-blog %} "How to blog without a blog"
 [StepsCreateBlogPost]: {% post_url 2019-01-15-10-steps-to-create-blog-post %} "10 Steps to Create a Successful Blog Post"
 [CreatePostForGithubPages]: {% post_url 2019-01-17-how-to-create-post-for-github-pages-blog %} "10 Steps to Publish Github Blog Post"
+[AzureUpdatesEpisode2Post]: {% post_url 2019-11-27-What-is-new-in-Azure-this-week %} "Azure Updates: Episode 2"
 
 [Rating1of10]: /assets/images/templates/astronaut-rating-1-of-10.png "Rating 1 of 10 Astronauts"
 [Rating2of10]: /assets/images/templates/astronaut-rating-2-of-10.png "Rating 2 of 10 Astronauts"
