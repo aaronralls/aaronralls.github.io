@@ -1,14 +1,14 @@
 ---
 layout: post
-title: "What is new in Azure: Episode 2"
-slug: what-is-new-in-azure-episode-2
-summary: "What is new in Azure: Episode 2"
+title: "What is new in Azure: Episode 3"
+slug: what-is-new-in-azure-episode-3
+summary: "What is new in Azure: Episode 3"
 excerpt: 
-  Stay up to date with Azure and see what's new for the week of 11/27/2019!
-image: /assets/images/20191127/header.jpg
-twitter_image: /assets/images/20191127/twitter-image.jpg
-facebook_link_image: /assets/images/20191127/facebook-link-image.jpg
-date: 2019-11-27 02:34:24.000000000 -05:00
+  Stay up to date with Azure and see what's new for the week of 12/04/2019!
+image: /assets/images/20191204/header.jpg
+twitter_image: /assets/images/20191204/twitter-image.jpg
+facebook_link_image: /assets/images/20191204/facebook-link-image.jpg
+date: 2019-12-04 02:34:24.000000000 -05:00
 type: post
 parent_id: '0'
 published: true
@@ -16,47 +16,17 @@ password: ''
 status: publish
 categories:
 - Azure
-- DevOps
-- Azure Blob Storage
-- Blob Storage Events
-- Azure Functions
-- Azure Event Grid
-- Azure Logic Apps
-- Azure Dedicated Host
-- Azure Service Tags
-- Network security group
-- Azure HDInsight
-- Azure Service Health
-- Azure Migrate
-- Azure SQL Database Metrics
-- Azure Monitor
-- Azure Metrics Explorer
 tags:
 - Azure
-- DevOps
-- Azure Blob Storage
-- Blob Storage Events
-- Azure Functions
-- Azure Event Grid
-- Azure Logic Apps
-- Azure Dedicated Host
-- Azure Service Tags
-- Network security group
-- Azure HDInsight
-- Azure Service Health
-- Azure Migrate
-- Azure SQL Database Metrics
-- Azure Monitor
-- Azure Metrics Explorer
 related_posts:
-- how-to-start-a-blog-for-free
 - what-is-new-in-azure-episode-1
+- what-is-new-in-azure-episode-2
 #image_sliders:
 #  - sliderVerifyGitHubBlog
 permalink: '/azure/updates/:slug'
 ---
 
-# What is new in Azure: Episode 2
+# What is new in Azure: Episode 3
 
 Welcome to my second post in this new weekly blog series to help you stay up to date with Azure!
 
@@ -64,7 +34,7 @@ If you want to get the background on my rating system please read the intro in [
 
 I won't cover every single update, just those I feel will benefit the largest possible audience.
 
-This Episode will cover changes going back to 11-21-2019.
+This Episode will cover changes going back to 11-27-2019.
 
 To learn more about me, be sure that you read my [post][StepsCreateBlogPost] on why I started blogging.
 
@@ -72,7 +42,7 @@ To learn more about me, be sure that you read my [post][StepsCreateBlogPost] on 
 
 Here are the updates I will cover.
 
-- [Change feed for Azure Blob Storage](#change-feed-for-azure-blob-storage)
+- [Live transcription with Azure Media Services](#live-transcription-with-azure-media-services)
 - [Azure Virtual Machines Isolation Changes D15 and DS15 v2](#azure-virtual-machines-isolation-changes-d15-and-ds15-v2)
 - [Azure HDInsight Create NSG rules with service tags](#azure-hdinsight-create-nsg-rules-with-service-tags)
 - [AzureDB Service Health Notifications](#azure-db-service-health-notifications)
@@ -80,7 +50,7 @@ Here are the updates I will cover.
 - [Azure Backup extended support](#azure-backup-extended-support)
 - [Azure Data Lake Updates](#azure-data-lake-updates)
 
-## Change feed for Azure Blob Storage
+## Live transcription with Azure Media Services
 
 The new [Change feed][ChangeFeedAnnouncement] feature is in preview and will provide a read-only log that will allow you to see all the actions that have taken place to the blobs.
 
@@ -96,126 +66,14 @@ Previously I built an [Azure Logic App][AzureLogicApps] that would run every 10 
 
 With this new feature you can update this process to audit all of the changes and/or to process the changes in the order.
 
-## Azure Virtual Machines Isolation Changes D15 and DS15 v2
-
-As of Feb 15, 2020 the D15_v2 and DS15_v2 Linux Virtual Machines may no longer be isolated. Read the [Announcement][AzureD15DS15NoLongerIsolatedAnnouncement] specific details.
-
-*__Why is this a big deal?__*
-
-![Rating 4 of 10][Rating4of10]
-
-I give this update 4/10 Astronauts because the isolated instances are being replaced with a new service [Azure Dedicated Host][AzureDedicatedHostPreviewAnnouncement]. All of the details on this service can be [read here][AzureD15IsolationQandA].
-
-## Azure HDInsight Create NSG rules with service tags
-
-You can now use [Azure Service Tags][AzureServiceTags] to manage inbound [network security group (NSG)][AzureNSGDocs] rules for [Azure HDInsight][AzureHDInsightDocs].
-
-Here is the official [announcement][AzureHDInsighServiceTagAnnouncement].
-
-*__Why is this a big deal?__*
-
-![Rating 8 of 10][Rating8of10]
-
-I give this update 8/10 Astronauts because improving the usability of implementing and managing security if important.
-
-Second, [Azure HDInsight][AzureHDInsightDocs] is where you would be running data processes like extracts, transformations, and a data warehouse.
-
-Protecting your data and your customers is critical.
-
-So go learn the nitty gritty on [Service Tags][AzureServiceTags] and [Azure Service Tags For HDInsight][AzureServiceTagsForHDInsightDocumentation]!
-
-## Azure DB Service Health Notifications
-
-The major update here is that the following database offerings now support [Azure Service Health][AzureServiceHealthDocs] notifications for planned maintenance.
-
-- [MariaDB Announcement][AzureDBforMariaDBServiceHealthAnnouncement]
-- [MySQL Announcement][AzureDBforMySQLServiceHealthAnnouncement]
-- [PostgreSQL Announcement][AzureDBforPostgreSQLServiceHealthAnnouncement]
-
-*__Why is this a big deal?__*
-
-![Rating 7 of 10][Rating7of10]
-
-I give this update 7/10 Astronauts because monitoring your databases is critical and easily the one component that can take your product offline and cause you to miss some SLA's.
-
-## Azure Migrate Assess Servers from CSV file
-
-It was [announced][AzureMigrateAssessCSVAnnouncement] that [Azure Migrate][AzureMigrateDocs] will allow you to start and migration assessment with a CSV file of servers.
-
-*__Why is this a big deal?__*
-
-![Rating 8 of 10][Rating8of10]
-
-I give this update 8/10 Astronauts because many companies don't want to install an agent on production servers to evaluate an Azure Migration.
-
-They already have inventories in spreadsheets or in a [Configuration Management Database][CMDBWiki] so this makes it a no-brainer first step to evaluate moving to Azure.
-
-Here are the [steps][AzureMigrateAssessDocumentation] to use a CSV file.
-
-## Azure Backup extended support
-
-We have two announcements for new features related to Azure backups!
-
-First, we have new [backup metrics][AzureBackupSupportSQLServer2019AVM] for Azure SQL Database.
-
-With [Azure Metrics Explorer][AzureMetricsExplorerDocs] you can now see events related to Full, Differential, and Log backups.
-
-Second, and the more important [announcement][AzureBackupSQLAsFiles], is support for Azure Backup for more versions of SQL and Windows Server in Virtual Machines
-
-- SQL Server 2008 & 2008 R2
-- SQL Server 2019
-- Windows Server 2019
-
-Along with....
-
-"INSERT DRUM ROLL"
-
-The ability to restore SQL databases as files to on-premises or other Azure subscriptions!
-
-Restore as files anywhere!!
-
-*__Why is this a big deal?__*
-
-![Rating 9 of 10][Rating9of10]
-
-I give this update 9/10 Astronauts because these changes are HUGE!
-
-Monitoring database backups is important and most people don't think to look at them or their status until a production issue comes up. This will help you keep a tab on them proactively.
-
-See the documentation for a complete list of [Azure SQL Database Metrics][AzureSQLDBMetricsDocs] you may monitor with [Azure Metrics Explorer][AzureMetricsExplorerDocs].
-
-The second part I mentioned about adding more SQL and Windows versions to [Azure backup][SQLServerBackupInVMDocumentation] is nice, the real beauty is the ability to restore as files!
-
-This will give you more flexibility to manage your database recover processes.
-
-I know this is really three announcements, but they made sense to cover as one topic.
-
-## Azure Data Lake updates
-
-Azure Data Lake Storage [announced][AzureDataLakeUpdatesAnnouncement] the ability of multi-protocol access, allowing the access of data on Azure Blobs via the Azure Blob Storage API.
-
-This allows for new Azure Service Integrations with Data Lake
-
-- Azure Stream Analytics
-- IoT Hub
-- Azure Event Hubs Capture
-- Azure Data Box
-- Azure Logic Apps
-
-*__Why is this a big deal?__*
-
-![Rating 7 of 10][Rating7of10]
-
-I give this update 7/10 Astronauts because the added capability of using other Azure services to take real-time action.
-
-A bonus addition is that they are now allowing customers to have data on different tiers, hot and cool, to reduce costs.
-
-You should read up on the [Data Lake Multi Protocol Access Docs][DataLakeMultiProtocolAccessDocs].
-
 ## Parting Thoughts - Read, Read, Read
 
 ![Reading Image][ReadingImage]
 *Photo by [Peter Lawrence][ReadingPhotoCredit] on [Unsplash][UnsplashLink]*
+
+[MariaDB docs][AzureDBForMariaDBDocumentation]
+[Monitor MariaDB][MonitorMariaDBServiceHealthDocs]
+[MariaDB][MariaDBSite]
 
 I used to hate to read.
 
@@ -249,6 +107,7 @@ Be sure you read my [Episode #1][AzureUpdatesEpisode1Post] post on previous Azur
 [StepsCreateBlogPost]: {% post_url 2019-01-15-10-steps-to-create-blog-post %} "10 Steps to Create a Successful Blog Post"
 [CreatePostForGithubPages]: {% post_url 2019-01-17-how-to-create-post-for-github-pages-blog %} "10 Steps to Publish Github Blog Post"
 [AzureUpdatesEpisode1Post]: {% post_url 2019-11-21-What-is-new-in-Azure-this-week %} "Azure Updates: Episode 1"
+[AzureUpdatesEpisode2Post]: {% post_url 2019-11-27-What-is-new-in-Azure-this-week %} "Azure Updates: Episode 2"
 
 [Rating1of10]: /assets/images/templates/astronaut-rating-1-of-10.png "Rating 1 of 10 Astronauts"
 [Rating2of10]: /assets/images/templates/astronaut-rating-2-of-10.png "Rating 2 of 10 Astronauts"
